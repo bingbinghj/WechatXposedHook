@@ -1,0 +1,440 @@
+{
+  "revision": 1,
+  "packages": [
+    {
+      "id": "x3-b0566e57b8a7efe8",
+      "originalArchives": [
+        "宫崎骏动漫（龙猫）28.zip"
+      ],
+      "originalArchiveSha256": "b0566e57b8a7efe8763e1897f33d313fea99f597ae2f0e92e71a4e98fde93179",
+      "resources": [
+        {
+          "resource": "images/1680188285302.webp",
+          "beforeSha256": "75fa4a6ee17cf140441cb1d3da478b20bbfdb6dae15ac3f8b90039c75170474a",
+          "afterSha256": "7f3d3e2bf315b4fadd01e760cc4d7a9f34fb7e0a95a9fe8eea15eee31cd9afcc",
+          "beforeBytes": 57676,
+          "afterBytes": 921700,
+          "mode": "RGB",
+          "dimensions": [
+            664,
+            1434
+          ],
+          "decodedPixelsSha256": "a3933288aea2f4e7936c5d178bf8f1d784729a81b86ceb7efa7dd580c9efd544",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        },
+        {
+          "resource": "images/1680188291378.webp",
+          "beforeSha256": "e16e98e3095058f520cfae2c8809f25ca7a6ecce912022e0ab693a9e3fc3c75b",
+          "afterSha256": "11b100bf136bb043561824ccaeb0012d0c009d1c122f5f971894d13da277720d",
+          "beforeBytes": 41158,
+          "afterBytes": 533709,
+          "mode": "RGB",
+          "dimensions": [
+            662,
+            1436
+          ],
+          "decodedPixelsSha256": "86677092158679950f9d16c84ee7240c598533cb4f64afbd7c7d2913491deee4",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        },
+        {
+          "resource": "images/1680188308247.webp",
+          "beforeSha256": "594d016bc1e559cfc65fa8ecf2fb992001bb30a642ab97c538c03a48dc93b667",
+          "afterSha256": "ad665d97ffaa03f05b2aef9bef6bc0ef24cfc2a56fb1245cf118a5a5e0ffe7b1",
+          "beforeBytes": 18375,
+          "afterBytes": 293108,
+          "mode": "RGB",
+          "dimensions": [
+            700,
+            1246
+          ],
+          "decodedPixelsSha256": "c676e609e2bf16678249f51293722ef50dbe552ef52c56b516869c3c354a0e05",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        },
+        {
+          "resource": "images/1680188320849.webp",
+          "beforeSha256": "d78b1e56b3ff90350d4b98512e7f477b4f33c9533145148503c50216fc2359e8",
+          "afterSha256": "ed5400e3a521fe7d752b72e8b4d6250b629fdd97be7cd0d79b3bf8663b65871c",
+          "beforeBytes": 44025,
+          "afterBytes": 589380,
+          "mode": "RGB",
+          "dimensions": [
+            700,
+            1308
+          ],
+          "decodedPixelsSha256": "b08612ec67e95e43fa3d2d0ff0a259029eea6bf5074d7f2e0090a391d64bb517",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        },
+        {
+          "resource": "images/drawer_bg_whole.png",
+          "beforeSha256": "d78b1e56b3ff90350d4b98512e7f477b4f33c9533145148503c50216fc2359e8",
+          "afterSha256": "ed5400e3a521fe7d752b72e8b4d6250b629fdd97be7cd0d79b3bf8663b65871c",
+          "beforeBytes": 44025,
+          "afterBytes": 589380,
+          "mode": "RGB",
+          "dimensions": [
+            700,
+            1308
+          ],
+          "decodedPixelsSha256": "b08612ec67e95e43fa3d2d0ff0a259029eea6bf5074d7f2e0090a391d64bb517",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        }
+      ],
+      "settingsBytesUnchanged": true
+    },
+    {
+      "id": "x3-e473bf6f81e8c828",
+      "originalArchives": [
+        "猫羽雫.zip"
+      ],
+      "originalArchiveSha256": "e473bf6f81e8c8287907bfef4279b81911bf150acad29a4f54f76833c311446a",
+      "resources": [
+        {
+          "resource": "images/4.jpg",
+          "beforeSha256": "ea416ec13977e5a60ecf3a3bd7153dd419632664c71539baa0230f7dd1865b6c",
+          "afterSha256": "ab9eb36f0d4dfac62bdea517c605166ffec0bd7e73c334dc25e63184d8689c8d",
+          "beforeBytes": 45052,
+          "afterBytes": 963013,
+          "mode": "RGB",
+          "dimensions": [
+            886,
+            1920
+          ],
+          "decodedPixelsSha256": "818ffd5d3b35f66971ade29fdf73e26c33ed16cb2bee20df0fa17a984f075db5",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        }
+      ],
+      "settingsBytesUnchanged": true
+    },
+    {
+      "id": "x3-b1e89640290a94bc",
+      "originalArchives": [
+        "蜡笔小新52.zip"
+      ],
+      "originalArchiveSha256": "b1e89640290a94bcdbef0a38cd99d7e2c82fef0d9222bbe48f43a27a30c8cb3d",
+      "resources": [
+        {
+          "resource": "images/1681009418126.webp",
+          "beforeSha256": "4e83bfe72b385f76a512eeb25bf60ba74b3bb0636450e0884b5bb31d769c02e0",
+          "afterSha256": "c00ebaff2e5eb822f2809c8febe8463dbd9507864f7948f1ce22ccc9b7ab1b10",
+          "beforeBytes": 31654,
+          "afterBytes": 388640,
+          "mode": "RGB",
+          "dimensions": [
+            918,
+            1920
+          ],
+          "decodedPixelsSha256": "20771ef56cdef5b471bb061fb7fb25bea37fb731e7cc254a77039e255e5c75a9",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        },
+        {
+          "resource": "images/1681009431543.webp",
+          "beforeSha256": "56b987ef6855d991e95cc57efab0ef9e1c02e2e6fc041e1e936b9a98daba7a50",
+          "afterSha256": "db110c8c2d090c9617105dc1504e30f4a3c78bc6dc29dc894f4b3c86d1f0a933",
+          "beforeBytes": 22498,
+          "afterBytes": 284804,
+          "mode": "RGB",
+          "dimensions": [
+            918,
+            1920
+          ],
+          "decodedPixelsSha256": "7931cba654d795e33ac405da13eb67f054b3bcafc869654d8c788834309b9c34",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        },
+        {
+          "resource": "images/1681009455655.webp",
+          "beforeSha256": "4cc471baf076d72efd0bca7b95497ba54be8ced37cbf4ff64c3090d16e79756e",
+          "afterSha256": "f23b1b0c17021cec0dc33937d567a5dd09cab2dd29cdf19a67dc9cc1e684049d",
+          "beforeBytes": 76438,
+          "afterBytes": 1068501,
+          "mode": "RGB",
+          "dimensions": [
+            886,
+            1920
+          ],
+          "decodedPixelsSha256": "fb66c2de5ca9a1c52d4cc1a031973aefa1f5af4272f01efe9a8953625f30894f",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        },
+        {
+          "resource": "images/1681009560815.webp",
+          "beforeSha256": "ea63795985a2e34ec93b1536f5ed4d302416003b36f38f1c1d422db2d23b15a9",
+          "afterSha256": "49f7335c882f3e518afc394a571deeffce758b183dc5abaa1160c7618a27e7a6",
+          "beforeBytes": 33171,
+          "afterBytes": 425452,
+          "mode": "RGB",
+          "dimensions": [
+            1080,
+            1920
+          ],
+          "decodedPixelsSha256": "aba08fe3ce412ab5fe2e9d7036fcedb4aa89f3bb245533728a1889bfac3b36bc",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        },
+        {
+          "resource": "images/drawer_bg_whole.png",
+          "beforeSha256": "56b987ef6855d991e95cc57efab0ef9e1c02e2e6fc041e1e936b9a98daba7a50",
+          "afterSha256": "db110c8c2d090c9617105dc1504e30f4a3c78bc6dc29dc894f4b3c86d1f0a933",
+          "beforeBytes": 22498,
+          "afterBytes": 284804,
+          "mode": "RGB",
+          "dimensions": [
+            918,
+            1920
+          ],
+          "decodedPixelsSha256": "7931cba654d795e33ac405da13eb67f054b3bcafc869654d8c788834309b9c34",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        }
+      ],
+      "settingsBytesUnchanged": true
+    },
+    {
+      "id": "x3-b02ffd70b85c79c8",
+      "originalArchives": [
+        "原神二次元主题83.zip"
+      ],
+      "originalArchiveSha256": "b02ffd70b85c79c850a885501b47f9d347cde12087a9751a9a35c9b2dcf72f54",
+      "resources": [
+        {
+          "resource": "images/1680227665302.webp",
+          "beforeSha256": "67606e8f0370dc4ef04b2dd9a9d04f01d274189a453bc46681cf0b3ceaa75b5d",
+          "afterSha256": "911f4b794756c3bda1de7434648451c7a29cdca66b82f28d324ee8a5c2379acb",
+          "beforeBytes": 33446,
+          "afterBytes": 450584,
+          "mode": "RGB",
+          "dimensions": [
+            1080,
+            1920
+          ],
+          "decodedPixelsSha256": "420e82230c2cc0f7b91d3fb47ccfe4fd0402a1de8aa37449d4d86af488189de1",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        },
+        {
+          "resource": "images/1680227672523.webp",
+          "beforeSha256": "30942f973cae0031e8481d0617640dee8d438ed16075358d66d832e113730a56",
+          "afterSha256": "799e981e9b11043771b7a0c9f3ecee108014a0ea589c3a27d121fadf96423f1f",
+          "beforeBytes": 28992,
+          "afterBytes": 442928,
+          "mode": "RGB",
+          "dimensions": [
+            1080,
+            1920
+          ],
+          "decodedPixelsSha256": "fe67fac2b2c9c87fa5ac5069937e9f5579d2fa31adb87cdd2a5a89c2496a5d89",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        },
+        {
+          "resource": "images/1680227677600.webp",
+          "beforeSha256": "8dc3e3851af7d8040acc17b1432e25ab66ea0a66b3f458d9d808d73072a6498b",
+          "afterSha256": "c328d0f957038aafc3d718267173f9ebdd4e64570bb27ee19eb29dab4f03b907",
+          "beforeBytes": 33048,
+          "afterBytes": 403465,
+          "mode": "RGB",
+          "dimensions": [
+            1080,
+            1920
+          ],
+          "decodedPixelsSha256": "451c12a69e28356678f0a8ce6765c8977b9f7bc3770fc0519cb00455e96c85da",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        },
+        {
+          "resource": "images/1680227687385.webp",
+          "beforeSha256": "e531452830fdce17fa2b7f8c0f3b0208c55e1feb20c75d6adb3c42d6e9806e26",
+          "afterSha256": "9ef759549f7c35ed477c26cb6a2cc66338d429b6d69b28eaf5deb03b3a5ab9bf",
+          "beforeBytes": 40555,
+          "afterBytes": 577597,
+          "mode": "RGB",
+          "dimensions": [
+            1080,
+            1920
+          ],
+          "decodedPixelsSha256": "184623fa1555548466a3c3586ac2db73a00c82c76313b96b3c09a104e16ea7c1",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        }
+      ],
+      "settingsBytesUnchanged": true
+    },
+    {
+      "id": "x3-856173e61e69649f",
+      "originalArchives": [
+        "原神可莉84.zip"
+      ],
+      "originalArchiveSha256": "856173e61e69649f04f6769290b91920590ed5af54b61ae7a2df38b5b938d685",
+      "resources": [
+        {
+          "resource": "images/1680357140198.webp",
+          "beforeSha256": "268ab4dfac69a33ee5b392a134a2f575ae93af535ebeb489a880d058bac69ea6",
+          "afterSha256": "5876fcc9b8771c4c1b37d628089a6d06f174aa99baded3808534f07644cfd783",
+          "beforeBytes": 90803,
+          "afterBytes": 1250122,
+          "mode": "RGB",
+          "dimensions": [
+            1022,
+            1920
+          ],
+          "decodedPixelsSha256": "78bc08b288dccf398b7ee22d28ab22fdfbff139cc687731868674ddf791d41fd",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        },
+        {
+          "resource": "images/1680357267740.webp",
+          "beforeSha256": "c23731e8938739f08a51a1e94983a8a7f71aa3694a47694cb49585fac39c5b2f",
+          "afterSha256": "799737a76213ae7157f4a2ccff8c083d347c7f0f31d7fc264cb94153bfb1b1db",
+          "beforeBytes": 82248,
+          "afterBytes": 1020159,
+          "mode": "RGB",
+          "dimensions": [
+            700,
+            1334
+          ],
+          "decodedPixelsSha256": "6b75cc1e3680a0b4c14af57417a21f6e5bad9f35de08f270d6e51dca6414a93c",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        },
+        {
+          "resource": "images/1680357275218.webp",
+          "beforeSha256": "dab6e717879ac0adfb0bb438758d7c9173e7666d4cb15d4ee6e30811bd556da0",
+          "afterSha256": "97408f7cc2c89daa53be74d11c055c550e67d17be292c656185334b61e5f7cd8",
+          "beforeBytes": 65463,
+          "afterBytes": 1009144,
+          "mode": "RGB",
+          "dimensions": [
+            1170,
+            2532
+          ],
+          "decodedPixelsSha256": "ff3ac3056fc28deff0b4d484207ea2e2ca357bbb22ae1a314bd4e51ae018788a",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        },
+        {
+          "resource": "images/1680357281794.webp",
+          "beforeSha256": "a7b9f5d6e6c4839ad954a1fe7707160c4cadf1553d083e74b9aa3f9b6ad312fe",
+          "afterSha256": "013a169cb457452303323c452ffb2ca51b324257c257937b051b419544ce4914",
+          "beforeBytes": 243253,
+          "afterBytes": 2968698,
+          "mode": "RGB",
+          "dimensions": [
+            1170,
+            2532
+          ],
+          "decodedPixelsSha256": "3c2325c6506a6c5c89ba11eb7647a0f51e2ecf1d1cf1c263ef464175717935bb",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        },
+        {
+          "resource": "images/1680357326933.webp",
+          "beforeSha256": "47ebf0ae717de86b66908063df7889f8fed8ab2f7881b55fea8fa6b5e997e4d8",
+          "afterSha256": "45c313c0f24fa5c2c50b4cc6dbbcd63f763749c1785ed4e8526477e71807f1ad",
+          "beforeBytes": 104243,
+          "afterBytes": 1887782,
+          "mode": "RGB",
+          "dimensions": [
+            1080,
+            1920
+          ],
+          "decodedPixelsSha256": "586a39e1207f999e38e142a464d3625a34856aa58c8f6566d5b54fc59f7aa429",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        }
+      ],
+      "settingsBytesUnchanged": true
+    },
+    {
+      "id": "x3-52b2413b147499d3",
+      "originalArchives": [
+        "新二次元主题79.zip"
+      ],
+      "originalArchiveSha256": "52b2413b147499d399c68fe0fd3f3d396b2db4ed89805101b9d1fbdfbc079497",
+      "resources": [
+        {
+          "resource": "images/1680227665302.webp",
+          "beforeSha256": "67606e8f0370dc4ef04b2dd9a9d04f01d274189a453bc46681cf0b3ceaa75b5d",
+          "afterSha256": "911f4b794756c3bda1de7434648451c7a29cdca66b82f28d324ee8a5c2379acb",
+          "beforeBytes": 33446,
+          "afterBytes": 450584,
+          "mode": "RGB",
+          "dimensions": [
+            1080,
+            1920
+          ],
+          "decodedPixelsSha256": "420e82230c2cc0f7b91d3fb47ccfe4fd0402a1de8aa37449d4d86af488189de1",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        },
+        {
+          "resource": "images/1680227672523.webp",
+          "beforeSha256": "30942f973cae0031e8481d0617640dee8d438ed16075358d66d832e113730a56",
+          "afterSha256": "799e981e9b11043771b7a0c9f3ecee108014a0ea589c3a27d121fadf96423f1f",
+          "beforeBytes": 28992,
+          "afterBytes": 442928,
+          "mode": "RGB",
+          "dimensions": [
+            1080,
+            1920
+          ],
+          "decodedPixelsSha256": "fe67fac2b2c9c87fa5ac5069937e9f5579d2fa31adb87cdd2a5a89c2496a5d89",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        },
+        {
+          "resource": "images/1680227677600.webp",
+          "beforeSha256": "8dc3e3851af7d8040acc17b1432e25ab66ea0a66b3f458d9d808d73072a6498b",
+          "afterSha256": "c328d0f957038aafc3d718267173f9ebdd4e64570bb27ee19eb29dab4f03b907",
+          "beforeBytes": 33048,
+          "afterBytes": 403465,
+          "mode": "RGB",
+          "dimensions": [
+            1080,
+            1920
+          ],
+          "decodedPixelsSha256": "451c12a69e28356678f0a8ce6765c8977b9f7bc3770fc0519cb00455e96c85da",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        },
+        {
+          "resource": "images/1680227687385.webp",
+          "beforeSha256": "e531452830fdce17fa2b7f8c0f3b0208c55e1feb20c75d6adb3c42d6e9806e26",
+          "afterSha256": "9ef759549f7c35ed477c26cb6a2cc66338d429b6d69b28eaf5deb03b3a5ab9bf",
+          "beforeBytes": 40555,
+          "afterBytes": 577597,
+          "mode": "RGB",
+          "dimensions": [
+            1080,
+            1920
+          ],
+          "decodedPixelsSha256": "184623fa1555548466a3c3586ac2db73a00c82c76313b96b3c09a104e16ea7c1",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        },
+        {
+          "resource": "images/drawer_bg_whole.png",
+          "beforeSha256": "30942f973cae0031e8481d0617640dee8d438ed16075358d66d832e113730a56",
+          "afterSha256": "799e981e9b11043771b7a0c9f3ecee108014a0ea589c3a27d121fadf96423f1f",
+          "beforeBytes": 28992,
+          "afterBytes": 442928,
+          "mode": "RGB",
+          "dimensions": [
+            1080,
+            1920
+          ],
+          "decodedPixelsSha256": "fe67fac2b2c9c87fa5ac5069937e9f5579d2fa31adb87cdd2a5a89c2496a5d89",
+          "losslessPixelRoundTrip": true,
+          "consumerPathPreserved": true
+        }
+      ],
+      "settingsBytesUnchanged": true
+    }
+  ]
+}

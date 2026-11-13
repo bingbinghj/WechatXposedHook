@@ -1,0 +1,2511 @@
+{
+  "schema": 1,
+  "target": {
+    "package": "cn.android.x",
+    "wechatVersion": "8.0.80",
+    "wechatCode": 3220
+  },
+  "repository": "bingbinghj/WechatXposedHook",
+  "ref": "x-theme-catalog",
+  "rawBase": "https://raw.githubusercontent.com/bingbinghj/WechatXposedHook/x-theme-catalog/",
+  "categories": [
+    {
+      "id": "characters",
+      "name": "动漫角色"
+    },
+    {
+      "id": "cute",
+      "name": "可爱"
+    },
+    {
+      "id": "games",
+      "name": "游戏"
+    },
+    {
+      "id": "landscape",
+      "name": "风景"
+    },
+    {
+      "id": "minimal",
+      "name": "简约与个性"
+    }
+  ],
+  "themes": [
+    {
+      "id": "x3-2db2d7a3497e28cd",
+      "name": "Miku",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "Miku"
+      ],
+      "packagePath": "themes/x3/packages/characters/Miku-2db2d7a3.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/Miku-2db2d7a3.zip",
+      "previewPath": "themes/x3/previews/x3-2db2d7a3497e28cd.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-2db2d7a3497e28cd.webp",
+      "sha256": "2237b327bb40a9b78f45bf6966e5f7ff14075a799c73ccbfce07e2351a868f81",
+      "bytes": 8080051,
+      "originalSha256": "2db2d7a3497e28cd5cd88b809fd1a89158b93b54e115d1c1224f1928b0f5bf0f",
+      "originalFiles": [
+        "Miku.zip"
+      ],
+      "previewSha256": "74f764687609a5ff4784e19c7abd4d6bf1eb261ba9ced42bd808b8c1c474f239",
+      "previewBytes": 17776,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "missingRequiredImages": [
+        {
+          "setting": "$settings.SplashImage[0].p",
+          "resource": "images/0d4c7108a897b64344e4465c01cb01fa.png"
+        }
+      ]
+    },
+    {
+      "id": "x3-d79ba0933bcaff1a",
+      "name": "二次元动漫",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "二次元动漫"
+      ],
+      "packagePath": "themes/x3/packages/characters/二次元动漫-d79ba093.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/二次元动漫-d79ba093.zip",
+      "previewPath": "themes/x3/previews/x3-d79ba0933bcaff1a.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-d79ba0933bcaff1a.webp",
+      "sha256": "aed25a81f74240d19bcb33b3cf8047163f162d1964da8c31976f2c40da79dc8a",
+      "bytes": 645509,
+      "originalSha256": "d79ba0933bcaff1abcf9979c4eddffa7dbe8294ac0ebf8b6f81c9749f34491bb",
+      "originalFiles": [
+        "微x主题(二次元动漫)72.zip"
+      ],
+      "previewSha256": "77f878a6973465a0094071b0bb42732619a02a5c61f653bcc003008fa1cd1878",
+      "previewBytes": 15632,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-a50c5c903491ddc7",
+      "name": "全职高手",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "全职高手"
+      ],
+      "packagePath": "themes/x3/packages/characters/全职高手-a50c5c90.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/全职高手-a50c5c90.zip",
+      "previewPath": "themes/x3/previews/x3-a50c5c903491ddc7.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-a50c5c903491ddc7.webp",
+      "sha256": "f4e8c8df77e4c60ba5db233026023ab9e64bee9e14420820b7cd36e631502879",
+      "bytes": 3347569,
+      "originalSha256": "a50c5c903491ddc7bf68ee807b1a847d4114fc93af24ca126e04e1143bbe462f",
+      "originalFiles": [
+        "全职高手.zip"
+      ],
+      "previewSha256": "a84582a00e5cc514dca6d6a20a9593a36dc4f70b625c1599d9cda078e4d2b146",
+      "previewBytes": 41834,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-28d994219234c364",
+      "name": "动漫",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "动漫"
+      ],
+      "packagePath": "themes/x3/packages/characters/动漫-28d99421.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/动漫-28d99421.zip",
+      "previewPath": "themes/x3/previews/x3-28d994219234c364.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-28d994219234c364.webp",
+      "sha256": "828936cd4b3c8ccf574d27455140e26b9dcdfae51ddc43998205add4ea80ac5d",
+      "bytes": 23948346,
+      "originalSha256": "28d994219234c3648c08634655a7a6213fff6506ddf2022ef2f092c1efcdb329",
+      "originalFiles": [
+        "动漫.zip"
+      ],
+      "previewSha256": "fb77b4da29eafe75c9ba567823337e797e35987660cef2c451b753de2c6b9e99",
+      "previewBytes": 16924,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-f3f6d4f76f2b09c4",
+      "name": "名侦探柯南",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "名侦探柯南"
+      ],
+      "packagePath": "themes/x3/packages/characters/名侦探柯南-f3f6d4f7.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/名侦探柯南-f3f6d4f7.zip",
+      "previewPath": "themes/x3/previews/x3-f3f6d4f76f2b09c4.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-f3f6d4f76f2b09c4.webp",
+      "sha256": "679d4625fc96e71bdb2be8ba0a4350bcdcf797a816bed6aadf0fcd8fe4d1ef1d",
+      "bytes": 1917061,
+      "originalSha256": "f3f6d4f76f2b09c43bd7cd93f0bdca4731a190421799eb3e5d96c6811ca53664",
+      "originalFiles": [
+        "名侦探柯南.zip"
+      ],
+      "previewSha256": "77609a82efca76b802373ed02ce6f9dcd39135c00b1126ba13d5d94016bb7026",
+      "previewBytes": 20400,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "missingRequiredImages": [
+        {
+          "setting": "$settings.SplashImage[0].p",
+          "resource": "images/mmexport1668854236441.jpg"
+        }
+      ]
+    },
+    {
+      "id": "x3-74eafb55729724a6",
+      "name": "哆啦A梦",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "哆啦A梦",
+        "尽界•叮当"
+      ],
+      "packagePath": "themes/x3/packages/characters/哆啦A梦-74eafb55.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/哆啦A梦-74eafb55.zip",
+      "previewPath": "themes/x3/previews/x3-74eafb55729724a6.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-74eafb55729724a6.webp",
+      "sha256": "302d153941853d5cfe870662680acce6cdcf9e1b3be11fb92e6b3023865899ae",
+      "bytes": 1318766,
+      "originalSha256": "74eafb55729724a65ec3e605b0f826c438df820153eb5e1daaecb97e51272786",
+      "originalFiles": [
+        "哆啦A梦.zip",
+        "尽界•叮当44.zip"
+      ],
+      "previewSha256": "f9b461eedc4797df3146f81f9bf917128d4a71cd4d3b7e15f6366802c685b2a4",
+      "previewBytes": 8230,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "missingRequiredImages": [
+        {
+          "setting": "$settings.SplashImage[0].p",
+          "resource": "images/mmexport1668854236441.jpg"
+        }
+      ]
+    },
+    {
+      "id": "x3-41419f4384acb676",
+      "name": "喜羊羊",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "喜羊羊"
+      ],
+      "packagePath": "themes/x3/packages/characters/喜羊羊-41419f43.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/喜羊羊-41419f43.zip",
+      "previewPath": "themes/x3/previews/x3-41419f4384acb676.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-41419f4384acb676.webp",
+      "sha256": "e583fa3565ab6f047763ad2dce3b0bc9432deeadcba111177d58419a3ebc0166",
+      "bytes": 2138245,
+      "originalSha256": "41419f4384acb676a5e0ded717eb260da573bc6e34da637a945543a79981da76",
+      "originalFiles": [
+        "喜羊羊75.zip"
+      ],
+      "previewSha256": "7a331f87b5329090d2e684871ebba3499f8cf75495b9a63bbc4823a12d309521",
+      "previewBytes": 29634,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-b0566e57b8a7efe8",
+      "name": "宫崎骏动漫（龙猫",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "宫崎骏动漫（龙猫"
+      ],
+      "packagePath": "themes/x3/packages/characters/宫崎骏动漫-龙猫-b0566e57.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/宫崎骏动漫-龙猫-b0566e57.zip",
+      "previewPath": "themes/x3/previews/x3-b0566e57b8a7efe8.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-b0566e57b8a7efe8.webp",
+      "sha256": "26341d2a5f4060780ec1f1946a038b103605d4dc2268f809d5eeec4c1cae71a0",
+      "bytes": 2970051,
+      "originalSha256": "b0566e57b8a7efe8763e1897f33d313fea99f597ae2f0e92e71a4e98fde93179",
+      "originalFiles": [
+        "宫崎骏动漫（龙猫）28.zip"
+      ],
+      "previewSha256": "3fb686144204777cee818b47f172992d0ce5b324d7ff825493011002a9f254cb",
+      "previewBytes": 31416,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "bitmapCompatibilityRevision": 1
+    },
+    {
+      "id": "x3-b1d4b7c594c46c17",
+      "name": "尽界•千寻",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "尽界•千寻"
+      ],
+      "packagePath": "themes/x3/packages/characters/尽界-千寻-b1d4b7c5.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/尽界-千寻-b1d4b7c5.zip",
+      "previewPath": "themes/x3/previews/x3-b1d4b7c594c46c17.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-b1d4b7c594c46c17.webp",
+      "sha256": "1c1d03df931b49c0d24936980143608b7e58c9bd237acc86f66d2179fdaf1b63",
+      "bytes": 2530605,
+      "originalSha256": "b1d4b7c594c46c17d7e7f21c067dd0734d1c4df5bb1a17ceca04aee0b0aeb301",
+      "originalFiles": [
+        "尽界•千寻49.zip"
+      ],
+      "previewSha256": "e39f36c0c5b9555450beed797fbfcbd70ccc26fe3231fcc4203d96f8208840c0",
+      "previewBytes": 25336,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "missingRequiredImages": [
+        {
+          "setting": "$settings.SplashImage[0].p",
+          "resource": "images/mmexport1668854236441.jpg"
+        }
+      ]
+    },
+    {
+      "id": "x3-061439fb67d39262",
+      "name": "尽界•间谍",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "尽界•间谍"
+      ],
+      "packagePath": "themes/x3/packages/characters/尽界-间谍-061439fb.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/尽界-间谍-061439fb.zip",
+      "previewPath": "themes/x3/previews/x3-061439fb67d39262.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-061439fb67d39262.webp",
+      "sha256": "def026570f27e06ea1fc2319943b45f576e83fc0454a47229e137ee75b9ad68d",
+      "bytes": 4994424,
+      "originalSha256": "061439fb67d3926272fd028d1de519593225f4093de79e9fdf80e50c789e6133",
+      "originalFiles": [
+        "尽界•间谍47.zip"
+      ],
+      "previewSha256": "b680c6e8bbad27b74afe2ee564f96b64a425f7b141475eca3de58b0de729a6dd",
+      "previewBytes": 23266,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "missingRequiredImages": [
+        {
+          "setting": "$settings.SplashImage[0].p",
+          "resource": "images/mmexport1668854236441.jpg"
+        }
+      ]
+    },
+    {
+      "id": "x3-1c30ad3f38c4ed32",
+      "name": "带土与琳",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "带土与琳"
+      ],
+      "packagePath": "themes/x3/packages/characters/带土与琳-1c30ad3f.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/带土与琳-1c30ad3f.zip",
+      "previewPath": "themes/x3/previews/x3-1c30ad3f38c4ed32.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-1c30ad3f38c4ed32.webp",
+      "sha256": "e3e926cd5b9a45f89e038ac34ddbabddf0d7af6264219755a07e03a7b7738ffa",
+      "bytes": 3627207,
+      "originalSha256": "1c30ad3f38c4ed32029b29a629683c2b56232637b7d7153af51de17e02d290d1",
+      "originalFiles": [
+        "微X主题〈带土与琳〉.zip"
+      ],
+      "previewSha256": "d8eb468c376517c00456b5f7c0febbdc4e0b706c7e36881a69b13a69d4194584",
+      "previewBytes": 19130,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-51613dfb6b193c1f",
+      "name": "懒羊羊",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "懒羊羊"
+      ],
+      "packagePath": "themes/x3/packages/characters/懒羊羊-51613dfb.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/懒羊羊-51613dfb.zip",
+      "previewPath": "themes/x3/previews/x3-51613dfb6b193c1f.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-51613dfb6b193c1f.webp",
+      "sha256": "3f4b64fc6b4aab172e2e875bcf9c698ac97c453e1dfae2bb15d982463224e9c3",
+      "bytes": 1793502,
+      "originalSha256": "51613dfb6b193c1f9dca7f0f1d30086945634365d0bceffb75ae98f54a4146bb",
+      "originalFiles": [
+        "懒羊羊53.zip"
+      ],
+      "previewSha256": "8d301e4b1eced7fb5ca968ec87f94f6d7d625c89961ee16ed8e019d58491203a",
+      "previewBytes": 28270,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-56b4626a84a926fe",
+      "name": "柯南",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "柯南"
+      ],
+      "packagePath": "themes/x3/packages/characters/柯南-56b4626a.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/柯南-56b4626a.zip",
+      "previewPath": "themes/x3/previews/x3-56b4626a84a926fe.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-56b4626a84a926fe.webp",
+      "sha256": "d6102425073460b8c72aae1e9ce6336b90a08b019f79c2bf52e680dd96dd5e6b",
+      "bytes": 4932015,
+      "originalSha256": "56b4626a84a926fe3780e121d0835797a28b0450318edbe8a50c78e9288239ad",
+      "originalFiles": [
+        "柯南51.zip"
+      ],
+      "previewSha256": "2d230073981f84ba07c951d30bb11e3ff954843d7cf68904bd8117018d85cb7b",
+      "previewBytes": 25638,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-c1c44a920dbfba94",
+      "name": "洛天依（暗黑",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "洛天依（暗黑"
+      ],
+      "packagePath": "themes/x3/packages/characters/洛天依-暗黑-c1c44a92.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/洛天依-暗黑-c1c44a92.zip",
+      "previewPath": "themes/x3/previews/x3-c1c44a920dbfba94.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-c1c44a920dbfba94.webp",
+      "sha256": "459bcaf165f76b7f82ddcb201c6decdfd6b96f794b4892699f493a748225f0ce",
+      "bytes": 3679308,
+      "originalSha256": "c1c44a920dbfba940073fa8c9244180626b1eaae4b95df339dc4728cd2111670",
+      "originalFiles": [
+        "洛天依（暗黑）55.zip"
+      ],
+      "previewSha256": "d3e8dacee09e2e82d2e5c0d0b1f3c85d1150c6d17ed850dfc3b18b9b78c6e635",
+      "previewBytes": 16054,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "missingRequiredImages": [
+        {
+          "setting": "$settings.SplashImage[0].p",
+          "resource": "images/0d4c7108a897b64344e4465c01cb01fa.png"
+        }
+      ]
+    },
+    {
+      "id": "x3-46ec1b2e151a2f7c",
+      "name": "狐妖小红娘",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "狐妖小红娘"
+      ],
+      "packagePath": "themes/x3/packages/characters/狐妖小红娘-46ec1b2e.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/狐妖小红娘-46ec1b2e.zip",
+      "previewPath": "themes/x3/previews/x3-46ec1b2e151a2f7c.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-46ec1b2e151a2f7c.webp",
+      "sha256": "6fe7aad9ae0b9606c72edfad9f10e512dcde6a19de508372f448c421b7ef3666",
+      "bytes": 3582002,
+      "originalSha256": "46ec1b2e151a2f7cfd73ff0bccc1b5a46f5747e237991940945026bab3a966bd",
+      "originalFiles": [
+        "狐妖小红娘.zip"
+      ],
+      "previewSha256": "a0f3f4126308569a4f05638a3544f01a9a51d2f1930e96012d7b73490805106d",
+      "previewBytes": 11828,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-e473bf6f81e8c828",
+      "name": "猫羽雫",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "猫羽雫"
+      ],
+      "packagePath": "themes/x3/packages/characters/猫羽雫-e473bf6f.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/猫羽雫-e473bf6f.zip",
+      "previewPath": "themes/x3/previews/x3-e473bf6f81e8c828.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-e473bf6f81e8c828.webp",
+      "sha256": "85b8a63eb3b8fc5d035ac0ef7752d71b00b38d774856e9824612e469c31c8bac",
+      "bytes": 3093830,
+      "originalSha256": "e473bf6f81e8c8287907bfef4279b81911bf150acad29a4f54f76833c311446a",
+      "originalFiles": [
+        "猫羽雫.zip"
+      ],
+      "previewSha256": "b191c3167db8ab3108285fe717e717504f632ca9aca5b0ab0fb3590807e05fed",
+      "previewBytes": 23914,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "bitmapCompatibilityRevision": 1,
+      "packageLocalImagePathRevision": 1
+    },
+    {
+      "id": "x3-c5007b771809b8cd",
+      "name": "猫羽雫微x主题",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "猫羽雫微x主题"
+      ],
+      "packagePath": "themes/x3/packages/characters/猫羽雫微x主题-c5007b77.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/猫羽雫微x主题-c5007b77.zip",
+      "previewPath": "themes/x3/previews/x3-c5007b771809b8cd.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-c5007b771809b8cd.webp",
+      "sha256": "017f3e2c15c814c7c1a791e53af478f6b700170246e0a1cd52cbf4b751ab620b",
+      "bytes": 446347,
+      "originalSha256": "c5007b771809b8cdfbdade0592979b34eec5e3429587925ffd79551c3b9a7b00",
+      "originalFiles": [
+        "猫羽雫微x主题.zip"
+      ],
+      "previewSha256": "f9c9ab74fd003f0c7b69cb30c35a46f5be157f02033b9fc68c015e7ef5d625c9",
+      "previewBytes": 13214,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "packageLocalImagePathRevision": 1,
+      "missingRequiredImages": [
+        {
+          "setting": "$settings.SplashImage[0].p",
+          "resource": "images/mmexport1668854236441.jpg"
+        }
+      ]
+    },
+    {
+      "id": "x3-9c21f5f1327944b8",
+      "name": "皮卡丘",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "皮卡丘"
+      ],
+      "packagePath": "themes/x3/packages/characters/皮卡丘-9c21f5f1.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/皮卡丘-9c21f5f1.zip",
+      "previewPath": "themes/x3/previews/x3-9c21f5f1327944b8.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-9c21f5f1327944b8.webp",
+      "sha256": "ad348ae3bcb96198303619380a900950852a8228f33913689dd3ee437758b4c7",
+      "bytes": 3695366,
+      "originalSha256": "9c21f5f1327944b82089342fcb39c552cede94d2a0ea7d4b571a501406ba8454",
+      "originalFiles": [
+        "微x主题皮卡丘.zip"
+      ],
+      "previewSha256": "04d187b26451660afea85790aa3eb7b50480b919f87e5b39a749679bff6cf372",
+      "previewBytes": 11360,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-f6250737cb1cda7d",
+      "name": "皮卡丘",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "皮卡丘"
+      ],
+      "packagePath": "themes/x3/packages/characters/皮卡丘-f6250737.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/皮卡丘-f6250737.zip",
+      "previewPath": "themes/x3/previews/x3-f6250737cb1cda7d.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-f6250737cb1cda7d.webp",
+      "sha256": "b06ca5bd23780e2e4432dc91d7ca93b800c16e5a4a36736e438e2088a007447f",
+      "bytes": 1769361,
+      "originalSha256": "f6250737cb1cda7d8c8b6755533e245b7f0688c62659bb623fe1e79207c0c2a5",
+      "originalFiles": [
+        "皮卡丘.zip"
+      ],
+      "previewSha256": "453b5d31b89183320b662cd02ef8dfaab4bb38af3a1709bd786a2119846992ea",
+      "previewBytes": 5694,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [
+        "转换后视觉效果未作真机验收"
+      ],
+      "convertedFromOriginalFormat": true
+    },
+    {
+      "id": "x3-3a7e0ad647aa63cb",
+      "name": "蜘蛛侠",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "蜘蛛侠"
+      ],
+      "packagePath": "themes/x3/packages/characters/蜘蛛侠-3a7e0ad6.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/蜘蛛侠-3a7e0ad6.zip",
+      "previewPath": "themes/x3/previews/x3-3a7e0ad647aa63cb.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-3a7e0ad647aa63cb.webp",
+      "sha256": "58dac421b81199b1962a5a5208c82e5027c0ee82bbf5b854e32cd970e8632cee",
+      "bytes": 877195,
+      "originalSha256": "3a7e0ad647aa63cbc6e8ca947fd396d3d9a70f88af7ff7b685c21170505cfdff",
+      "originalFiles": [
+        "微X主题〈蜘蛛侠〉.zip"
+      ],
+      "previewSha256": "820181e6293e9914706c793f9815925c6daabfb31b861e3f41faada919722240",
+      "previewBytes": 4956,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-6b119f211a41f649",
+      "name": "蜡笔小新",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "蜡笔小新"
+      ],
+      "packagePath": "themes/x3/packages/characters/蜡笔小新-6b119f21.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/蜡笔小新-6b119f21.zip",
+      "previewPath": "themes/x3/previews/x3-6b119f211a41f649.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-6b119f211a41f649.webp",
+      "sha256": "c37518ab83296fdbbcf3c01155de862a4a34991a8ecf3fbaeb3abad03d16cea0",
+      "bytes": 4157029,
+      "originalSha256": "6b119f211a41f649cb3f060a9dcfa6ad448854d053c333f15fd2272a5cdb574f",
+      "originalFiles": [
+        "蜡笔小新12.zip"
+      ],
+      "previewSha256": "6094749ddecfbbce6bb298e0c1776105888d47a93532d2363eac151212c0f266",
+      "previewBytes": 14402,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "missingRequiredImages": [
+        {
+          "setting": "$settings.SplashImage[0].p",
+          "resource": "images/mmexport1668854236441.jpg"
+        }
+      ]
+    },
+    {
+      "id": "x3-b1e89640290a94bc",
+      "name": "蜡笔小新",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "蜡笔小新"
+      ],
+      "packagePath": "themes/x3/packages/characters/蜡笔小新-b1e89640.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/蜡笔小新-b1e89640.zip",
+      "previewPath": "themes/x3/previews/x3-b1e89640290a94bc.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-b1e89640290a94bc.webp",
+      "sha256": "55fdab03714638f298924083f0dd0f9cbd95c09d1ae60a750ac06f2cbc0dc6e1",
+      "bytes": 2508264,
+      "originalSha256": "b1e89640290a94bcdbef0a38cd99d7e2c82fef0d9222bbe48f43a27a30c8cb3d",
+      "originalFiles": [
+        "蜡笔小新52.zip"
+      ],
+      "previewSha256": "e32b72ce6f074f02a0b0982358f7924976a2c081553d4bdf9ad8133ab0472160",
+      "previewBytes": 17102,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "bitmapCompatibilityRevision": 1
+    },
+    {
+      "id": "x3-3675e7898e2384fa",
+      "name": "迪迦奥特曼",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "迪迦奥特曼"
+      ],
+      "packagePath": "themes/x3/packages/characters/迪迦奥特曼-3675e789.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/迪迦奥特曼-3675e789.zip",
+      "previewPath": "themes/x3/previews/x3-3675e7898e2384fa.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-3675e7898e2384fa.webp",
+      "sha256": "67217b09dd0884043dbae9c0ee9b869ec78cacea7e8318032a8fe0bf5079571d",
+      "bytes": 2320719,
+      "originalSha256": "3675e7898e2384faf894cfd6260c009159f7b12816312232cdb71e9a94faa7d0",
+      "originalFiles": [
+        "迪迦奥特曼22.zip"
+      ],
+      "previewSha256": "f569c2c74b697b018a560a534e24cd896ff1993f557cd6cad6d768b6bfaf0046",
+      "previewBytes": 24194,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-70160d37ae9fb4fc",
+      "name": "阿里嘎多懒羊羊桑",
+      "category": "characters",
+      "categoryName": "动漫角色",
+      "aliases": [
+        "阿里嘎多懒羊羊桑"
+      ],
+      "packagePath": "themes/x3/packages/characters/阿里嘎多懒羊羊桑-70160d37.zip",
+      "assetPath": "assets/theme-catalog/packages/characters/阿里嘎多懒羊羊桑-70160d37.zip",
+      "previewPath": "themes/x3/previews/x3-70160d37ae9fb4fc.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-70160d37ae9fb4fc.webp",
+      "sha256": "d01a27abdcdeb89b80d70e0ce2684361b0204da8b328459ee43269fd607c6355",
+      "bytes": 5247331,
+      "originalSha256": "70160d37ae9fb4fce231184fa64a23521535b03475ea26e6db7f1278933a2047",
+      "originalFiles": [
+        "阿里嘎多懒羊羊桑216.zip"
+      ],
+      "previewSha256": "7189deb44f0b1cc551a979ff04dd7137865a678820bbbee0fcba7441f5aea91a",
+      "previewBytes": 3544,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [
+        "转换后视觉效果未作真机验收"
+      ],
+      "convertedFromOriginalFormat": true
+    },
+    {
+      "id": "x3-050b7caf9d524127",
+      "name": "加油鸭鸭",
+      "category": "cute",
+      "categoryName": "可爱",
+      "aliases": [
+        "加油鸭鸭"
+      ],
+      "packagePath": "themes/x3/packages/cute/加油鸭鸭-050b7caf.zip",
+      "assetPath": "assets/theme-catalog/packages/cute/加油鸭鸭-050b7caf.zip",
+      "previewPath": "themes/x3/previews/x3-050b7caf9d524127.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-050b7caf9d524127.webp",
+      "sha256": "bc78756bd6d5c56604dec25fbaa7e7c93bcc9a4e5e3a7765afd6ff4d0d490100",
+      "bytes": 2841534,
+      "originalSha256": "050b7caf9d52412757fe36a1237305a8fc95563a5ff529709e2fb8bf993f3cdf",
+      "originalFiles": [
+        "加油鸭鸭37.zip"
+      ],
+      "previewSha256": "5ae203d0d2cd12e54bf18b5cbc38d6ccba445b1a122337f50208aad262e28b2b",
+      "previewBytes": 14704,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-8b0898339e6e19b4",
+      "name": "史迪奇",
+      "category": "cute",
+      "categoryName": "可爱",
+      "aliases": [
+        "史迪奇"
+      ],
+      "packagePath": "themes/x3/packages/cute/史迪奇-8b089833.zip",
+      "assetPath": "assets/theme-catalog/packages/cute/史迪奇-8b089833.zip",
+      "previewPath": "themes/x3/previews/x3-8b0898339e6e19b4.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-8b0898339e6e19b4.webp",
+      "sha256": "a4045ad21357e38899516d45ce07d6d7e9f5a5f95246de9bd21d7c1fe1c8bc89",
+      "bytes": 1581807,
+      "originalSha256": "8b0898339e6e19b47b806d949cbcab4c96f5bd9523e038915bcb0760f92a3f91",
+      "originalFiles": [
+        "史迪奇.zip"
+      ],
+      "previewSha256": "9660058850c201cfb928856b83d5a87c207f51eddeb5928e608267726d87ddbb",
+      "previewBytes": 11404,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "missingRequiredImages": [
+        {
+          "setting": "$settings.SplashImage[0].p",
+          "resource": "images/mmexport1668854236441.jpg"
+        }
+      ]
+    },
+    {
+      "id": "x3-b0583a0a97e15fd1",
+      "name": "国宝",
+      "category": "cute",
+      "categoryName": "可爱",
+      "aliases": [
+        "国宝"
+      ],
+      "packagePath": "themes/x3/packages/cute/国宝-b0583a0a.zip",
+      "assetPath": "assets/theme-catalog/packages/cute/国宝-b0583a0a.zip",
+      "previewPath": "themes/x3/previews/x3-b0583a0a97e15fd1.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-b0583a0a97e15fd1.webp",
+      "sha256": "9c37bc6164b88870fafa1bc0e1c84e8778e731ba3b0a31f58f79a82bcf09a48d",
+      "bytes": 2782897,
+      "originalSha256": "b0583a0a97e15fd1b5c1a7ac8dabba2aa20796281b5422272be78ccc1cc635f1",
+      "originalFiles": [
+        "国宝29.zip"
+      ],
+      "previewSha256": "09b617f3b5979ebc1f1cb11a7f585fdeff8cd12197b06ca9bde0ead89d67a03e",
+      "previewBytes": 11426,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-da6854fbeab0391a",
+      "name": "大白",
+      "category": "cute",
+      "categoryName": "可爱",
+      "aliases": [
+        "大白"
+      ],
+      "packagePath": "themes/x3/packages/cute/大白-da6854fb.zip",
+      "assetPath": "assets/theme-catalog/packages/cute/大白-da6854fb.zip",
+      "previewPath": "themes/x3/previews/x3-da6854fbeab0391a.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-da6854fbeab0391a.webp",
+      "sha256": "a65f4ea10c9dfaca43ba04a5e281f0957c8ed24c3a2b7f2e3f559c250ef2e6b4",
+      "bytes": 1808883,
+      "originalSha256": "da6854fbeab0391a37e81491f1450ff98328f1001ef368e2a52ea521f59d8bdf",
+      "originalFiles": [
+        "大白21.zip"
+      ],
+      "previewSha256": "9f44cb60a03446af2281b246427bac8f09f9e16810a78b4bf7960b064495514a",
+      "previewBytes": 7540,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-b8e7e9be548c2baa",
+      "name": "小熊",
+      "category": "cute",
+      "categoryName": "可爱",
+      "aliases": [
+        "小熊"
+      ],
+      "packagePath": "themes/x3/packages/cute/小熊-b8e7e9be.zip",
+      "assetPath": "assets/theme-catalog/packages/cute/小熊-b8e7e9be.zip",
+      "previewPath": "themes/x3/previews/x3-b8e7e9be548c2baa.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-b8e7e9be548c2baa.webp",
+      "sha256": "544f16c643a92f37c6d1b1e4d7baabef76c2f65c1c34ade9d678d52331b4e6d3",
+      "bytes": 1649745,
+      "originalSha256": "b8e7e9be548c2baa5d342da7459572afc4161821dab7ddb9f83c33c02d68fe28",
+      "originalFiles": [
+        "小熊77.zip"
+      ],
+      "previewSha256": "54d831bebd67d928e0e11586834b4c0439f78caef0ff53d28d8ccc7786ef04a1",
+      "previewBytes": 4100,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-29b2fde4a6a35938",
+      "name": "小猪猪",
+      "category": "cute",
+      "categoryName": "可爱",
+      "aliases": [
+        "小猪猪"
+      ],
+      "packagePath": "themes/x3/packages/cute/小猪猪-29b2fde4.zip",
+      "assetPath": "assets/theme-catalog/packages/cute/小猪猪-29b2fde4.zip",
+      "previewPath": "themes/x3/previews/x3-29b2fde4a6a35938.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-29b2fde4a6a35938.webp",
+      "sha256": "1f5ed5a075a7438f5272f5bdf3a2f277a6fa8f466be08d456cf9556f6529bfc6",
+      "bytes": 1105413,
+      "originalSha256": "29b2fde4a6a3593893a0c9aec9868e7baf0ea00cbe3debe9d6d85b771d3e3fd5",
+      "originalFiles": [
+        "小猪猪78.zip"
+      ],
+      "previewSha256": "6f872a8598e324df17e718fd72f5ab397f0471c124310d15f5f1a63129fa366b",
+      "previewBytes": 8420,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-ac5540f10593b186",
+      "name": "水鸭青[魔改之抽屉]",
+      "category": "cute",
+      "categoryName": "可爱",
+      "aliases": [
+        "水鸭青[魔改之抽屉]"
+      ],
+      "packagePath": "themes/x3/packages/cute/水鸭青-魔改之抽屉-ac5540f1.zip",
+      "assetPath": "assets/theme-catalog/packages/cute/水鸭青-魔改之抽屉-ac5540f1.zip",
+      "previewPath": "themes/x3/previews/x3-ac5540f10593b186.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-ac5540f10593b186.webp",
+      "sha256": "63741471d0e848b6994c3147d8e7806ee94811b2b18611a34b27bc9f4dee3a3c",
+      "bytes": 1744686,
+      "originalSha256": "ac5540f10593b1862c81f9ad0176e09fd3adfec862187dca47be2c8abb542fb3",
+      "originalFiles": [
+        "水鸭青[魔改之抽屉]70.zip"
+      ],
+      "previewSha256": "6606cff5f71253d7f8ebd0d4e9b4929d249bb32d428eb62e18131fbaae6dc4fd",
+      "previewBytes": 2590,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-8099ccab967c9553",
+      "name": "海盐熊",
+      "category": "cute",
+      "categoryName": "可爱",
+      "aliases": [
+        "海盐熊"
+      ],
+      "packagePath": "themes/x3/packages/cute/海盐熊-8099ccab.zip",
+      "assetPath": "assets/theme-catalog/packages/cute/海盐熊-8099ccab.zip",
+      "previewPath": "themes/x3/previews/x3-8099ccab967c9553.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-8099ccab967c9553.webp",
+      "sha256": "27ae0b9cbfeb5baeb7513c9ef64d6b772bac6184f9fd05a0e0ed39a001da262b",
+      "bytes": 1190480,
+      "originalSha256": "8099ccab967c955377c5614736576dd82012ee13a683609cb4f1b0c2c9d0f8c8",
+      "originalFiles": [
+        "海盐熊-65268779130.zip"
+      ],
+      "previewSha256": "237b34f74907f8b1f0dd65aba21bf563c2473142b2db1e25858ff4c54826b266",
+      "previewBytes": 14526,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-5adccc753a739f63",
+      "name": "海盐熊-优化背景及气泡",
+      "category": "cute",
+      "categoryName": "可爱",
+      "aliases": [
+        "海盐熊-优化背景及气泡"
+      ],
+      "packagePath": "themes/x3/packages/cute/海盐熊-优化背景及气泡-5adccc75.zip",
+      "assetPath": "assets/theme-catalog/packages/cute/海盐熊-优化背景及气泡-5adccc75.zip",
+      "previewPath": "themes/x3/previews/x3-5adccc753a739f63.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-5adccc753a739f63.webp",
+      "sha256": "0d027f87b4de74a4719ed6aed50cbcee65d247c4ea38b5e2659a376e83c7faec",
+      "bytes": 1204901,
+      "originalSha256": "5adccc753a739f638a8a990bc285c8f31a1de0c70b91a5a0065570cf07ec002c",
+      "originalFiles": [
+        "海盐熊-优化背景及气泡65268779134 (1).zip"
+      ],
+      "previewSha256": "237b34f74907f8b1f0dd65aba21bf563c2473142b2db1e25858ff4c54826b266",
+      "previewBytes": 14526,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-6e0489af6e1b12aa",
+      "name": "海盐熊-完结",
+      "category": "cute",
+      "categoryName": "可爱",
+      "aliases": [
+        "海盐熊-完结"
+      ],
+      "packagePath": "themes/x3/packages/cute/海盐熊-完结-6e0489af.zip",
+      "assetPath": "assets/theme-catalog/packages/cute/海盐熊-完结-6e0489af.zip",
+      "previewPath": "themes/x3/previews/x3-6e0489af6e1b12aa.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-6e0489af6e1b12aa.webp",
+      "sha256": "9f58b84d97376d1091ef3ad5fb8f63abaac327409e651343c945933c624189c3",
+      "bytes": 1204715,
+      "originalSha256": "6e0489af6e1b12aaac4c64d54ad8799bb9503d1a5441d2e49dbcde5a685d7542",
+      "originalFiles": [
+        "海盐熊-完结65268779133.zip"
+      ],
+      "previewSha256": "237b34f74907f8b1f0dd65aba21bf563c2473142b2db1e25858ff4c54826b266",
+      "previewBytes": 14526,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-a8a9939fd8c1ccc4",
+      "name": "海盐熊-完结（增加侧滑呼出",
+      "category": "cute",
+      "categoryName": "可爱",
+      "aliases": [
+        "海盐熊-完结（增加侧滑呼出"
+      ],
+      "packagePath": "themes/x3/packages/cute/海盐熊-完结-增加侧滑呼出-a8a9939f.zip",
+      "assetPath": "assets/theme-catalog/packages/cute/海盐熊-完结-增加侧滑呼出-a8a9939f.zip",
+      "previewPath": "themes/x3/previews/x3-a8a9939fd8c1ccc4.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-a8a9939fd8c1ccc4.webp",
+      "sha256": "dca07b51360827f21d802b30350137e6f82659c7351a2a4453c00f66492075c3",
+      "bytes": 1204717,
+      "originalSha256": "a8a9939fd8c1ccc49e60f76651a62b91d327c3670c9d361a4ab36621b2145b3c",
+      "originalFiles": [
+        "海盐熊-完结（增加侧滑呼出）65268779132.zip"
+      ],
+      "previewSha256": "237b34f74907f8b1f0dd65aba21bf563c2473142b2db1e25858ff4c54826b266",
+      "previewBytes": 14526,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-3ffc2b2d707214e7",
+      "name": "海盐熊-改侧滑(有顶栏显示bug",
+      "category": "cute",
+      "categoryName": "可爱",
+      "aliases": [
+        "海盐熊-改侧滑(有顶栏显示bug"
+      ],
+      "packagePath": "themes/x3/packages/cute/海盐熊-改侧滑-有顶栏显示bug-3ffc2b2d.zip",
+      "assetPath": "assets/theme-catalog/packages/cute/海盐熊-改侧滑-有顶栏显示bug-3ffc2b2d.zip",
+      "previewPath": "themes/x3/previews/x3-3ffc2b2d707214e7.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-3ffc2b2d707214e7.webp",
+      "sha256": "c378a09e0a43b8a287640ba5dfe4f2639cb0fa3330007857f1bfb2a616e5191f",
+      "bytes": 1190483,
+      "originalSha256": "3ffc2b2d707214e7940c8040a015908a9b454bc21c37b5166c715d5a6b775fbc",
+      "originalFiles": [
+        "海盐熊-改侧滑(有顶栏显示bug)65268779131.zip"
+      ],
+      "previewSha256": "237b34f74907f8b1f0dd65aba21bf563c2473142b2db1e25858ff4c54826b266",
+      "previewBytes": 14526,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-f9183c98eae4eff2",
+      "name": "熊猫",
+      "category": "cute",
+      "categoryName": "可爱",
+      "aliases": [
+        "熊猫"
+      ],
+      "packagePath": "themes/x3/packages/cute/熊猫-f9183c98.zip",
+      "assetPath": "assets/theme-catalog/packages/cute/熊猫-f9183c98.zip",
+      "previewPath": "themes/x3/previews/x3-f9183c98eae4eff2.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-f9183c98eae4eff2.webp",
+      "sha256": "8ffc179350cc4e295cb61732464ae3af3617361eaa8719d1fb691679b758165d",
+      "bytes": 1173508,
+      "originalSha256": "f9183c98eae4eff234d1381ca2d67afc3628c88ed9a0c18191bc24b0ace03ba4",
+      "originalFiles": [
+        "熊猫82.zip"
+      ],
+      "previewSha256": "19a094980376b7bfaea74ff4afcef17bb88b894edb23072ec4b185693e2f4dfb",
+      "previewBytes": 6150,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-187af51e4e093de7",
+      "name": "粉色小猫",
+      "category": "cute",
+      "categoryName": "可爱",
+      "aliases": [
+        "粉色小猫"
+      ],
+      "packagePath": "themes/x3/packages/cute/粉色小猫-187af51e.zip",
+      "assetPath": "assets/theme-catalog/packages/cute/粉色小猫-187af51e.zip",
+      "previewPath": "themes/x3/previews/x3-187af51e4e093de7.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-187af51e4e093de7.webp",
+      "sha256": "d7a731b06f4a6502744a5d9683621f8835bc8b7061411737ebce4577334427ae",
+      "bytes": 343694,
+      "originalSha256": "187af51e4e093de7d847a30612db55bbdebaf75028021db6c90cfd5da4d17261",
+      "originalFiles": [
+        "粉色小猫25.zip"
+      ],
+      "previewSha256": "52658421a2330b406ffb7f94e3025c172f0bf6a9517e89a5cedef3ab3e29e809",
+      "previewBytes": 2080,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-6bd6431d4ac3df4e",
+      "name": "粉色粘土小熊",
+      "category": "cute",
+      "categoryName": "可爱",
+      "aliases": [
+        "粉色粘土小熊"
+      ],
+      "packagePath": "themes/x3/packages/cute/粉色粘土小熊-6bd6431d.zip",
+      "assetPath": "assets/theme-catalog/packages/cute/粉色粘土小熊-6bd6431d.zip",
+      "previewPath": "themes/x3/previews/x3-6bd6431d4ac3df4e.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-6bd6431d4ac3df4e.webp",
+      "sha256": "fc1bb13b71848b44952432bcc28670a6dd2f53befe87133d64def0a62c3da126",
+      "bytes": 802486,
+      "originalSha256": "6bd6431d4ac3df4ecb9ad053a63d09d7d4a73822b666428683d115fa20356e6c",
+      "originalFiles": [
+        "粉色粘土小熊26.zip"
+      ],
+      "previewSha256": "e53dad141ec7c0f16c3350eb27e9d216e57ef4d96facc2887035a727d0bc82a3",
+      "previewBytes": 4610,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-0226379da516adda",
+      "name": "美化鸭秋意主题 v1.1",
+      "category": "cute",
+      "categoryName": "可爱",
+      "aliases": [
+        "美化鸭秋意主题 v1.1"
+      ],
+      "packagePath": "themes/x3/packages/cute/美化鸭秋意主题-v1.1-0226379d.zip",
+      "assetPath": "assets/theme-catalog/packages/cute/美化鸭秋意主题-v1.1-0226379d.zip",
+      "previewPath": "themes/x3/previews/x3-0226379da516adda.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-0226379da516adda.webp",
+      "sha256": "628d33814beeeb9cdf92277f5260a0169c9d4b806034134de8a9249477980fb4",
+      "bytes": 14539929,
+      "originalSha256": "0226379da516addadc9f4de7304b38c263ac20c5a4c161f8ff232b06e28ab9e7",
+      "originalFiles": [
+        "美化鸭秋意主题 V1.158.zip"
+      ],
+      "previewSha256": "69e0c70162285afc163404a29f25e93b46dd9adf1fc7d3132a198c31669df0bd",
+      "previewBytes": 932,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [
+        "转换后视觉效果未作真机验收"
+      ],
+      "convertedFromOriginalFormat": true
+    },
+    {
+      "id": "x3-758701713473ccad",
+      "name": "光遇",
+      "category": "games",
+      "categoryName": "游戏",
+      "aliases": [
+        "光遇"
+      ],
+      "packagePath": "themes/x3/packages/games/光遇-75870171.zip",
+      "assetPath": "assets/theme-catalog/packages/games/光遇-75870171.zip",
+      "previewPath": "themes/x3/previews/x3-758701713473ccad.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-758701713473ccad.webp",
+      "sha256": "3a21cbf7ea84c66da9d30eda364f707fce593ca483385822df9392fe6d3dc9c5",
+      "bytes": 10434253,
+      "originalSha256": "758701713473ccad5c36c8ad00d11d8cd7bc854c7e4b102bf1c6acc10dd8a157",
+      "originalFiles": [
+        "光遇.zip"
+      ],
+      "previewSha256": "b438e128576cac00d0f9bd56e9561d2c32d7273c08f4890277511f9bb144e1a1",
+      "previewBytes": 11316,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-d28292405a836b54",
+      "name": "光遇",
+      "category": "games",
+      "categoryName": "游戏",
+      "aliases": [
+        "光遇"
+      ],
+      "packagePath": "themes/x3/packages/games/光遇-d2829240.zip",
+      "assetPath": "assets/theme-catalog/packages/games/光遇-d2829240.zip",
+      "previewPath": "themes/x3/previews/x3-d28292405a836b54.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-d28292405a836b54.webp",
+      "sha256": "45e6261de34a3d68923777a1ff86ecb959b89c2b921e10603e8a4666bc5a1a3a",
+      "bytes": 10551496,
+      "originalSha256": "d28292405a836b54fdf333ad99df1d5e2a0f37dca0b7851ab673e0220798adc4",
+      "originalFiles": [
+        "光遇11.zip"
+      ],
+      "previewSha256": "b438e128576cac00d0f9bd56e9561d2c32d7273c08f4890277511f9bb144e1a1",
+      "previewBytes": 11316,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-b02ffd70b85c79c8",
+      "name": "原神二次元主题",
+      "category": "games",
+      "categoryName": "游戏",
+      "aliases": [
+        "原神二次元主题"
+      ],
+      "packagePath": "themes/x3/packages/games/原神二次元主题-b02ffd70.zip",
+      "assetPath": "assets/theme-catalog/packages/games/原神二次元主题-b02ffd70.zip",
+      "previewPath": "themes/x3/previews/x3-b02ffd70b85c79c8.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-b02ffd70b85c79c8.webp",
+      "sha256": "cab768de8c5ce6cd46a7cdb23bce906cfd7bcd1eb790da7024655df2d39a8e6c",
+      "bytes": 4724441,
+      "originalSha256": "b02ffd70b85c79c850a885501b47f9d347cde12087a9751a9a35c9b2dcf72f54",
+      "originalFiles": [
+        "原神二次元主题83.zip"
+      ],
+      "previewSha256": "3cc7b224767fab46180858cf6e58592f66e63ab26388d1c36e0c6c9d0f0436fe",
+      "previewBytes": 66766,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "bitmapCompatibilityRevision": 1
+    },
+    {
+      "id": "x3-856173e61e69649f",
+      "name": "原神可莉",
+      "category": "games",
+      "categoryName": "游戏",
+      "aliases": [
+        "原神可莉"
+      ],
+      "packagePath": "themes/x3/packages/games/原神可莉-856173e6.zip",
+      "assetPath": "assets/theme-catalog/packages/games/原神可莉-856173e6.zip",
+      "previewPath": "themes/x3/previews/x3-856173e61e69649f.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-856173e61e69649f.webp",
+      "sha256": "ec533e6980c494bf17327f16b435376ad51be32c5b122dcfb1e6acf4ab423d60",
+      "bytes": 8840670,
+      "originalSha256": "856173e61e69649f04f6769290b91920590ed5af54b61ae7a2df38b5b938d685",
+      "originalFiles": [
+        "原神可莉84.zip"
+      ],
+      "previewSha256": "dcf17a3b540d6ec2ae9c3f277b210cec4fa65af4a3f6d7776816077eecf81b42",
+      "previewBytes": 19066,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "bitmapCompatibilityRevision": 1
+    },
+    {
+      "id": "x3-ec432001ac0494dd",
+      "name": "墨•高达",
+      "category": "games",
+      "categoryName": "游戏",
+      "aliases": [
+        "墨•高达"
+      ],
+      "packagePath": "themes/x3/packages/games/墨-高达-ec432001.zip",
+      "assetPath": "assets/theme-catalog/packages/games/墨-高达-ec432001.zip",
+      "previewPath": "themes/x3/previews/x3-ec432001ac0494dd.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-ec432001ac0494dd.webp",
+      "sha256": "84bce29b245d1a9b72710305ef62de2ae149f741c24b0a72de36230caf8697ea",
+      "bytes": 2700364,
+      "originalSha256": "ec432001ac0494dd1d91622f72b9964e13c28511dc3d0c885f56ce4d90febab3",
+      "originalFiles": [
+        "墨•高达.zip"
+      ],
+      "previewSha256": "e1e909ef9874c4325ed8e5c4763ff44769b619da2024a08d95d9f1d076d4d4e1",
+      "previewBytes": 18358,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "missingRequiredImages": [
+        {
+          "setting": "$settings.SplashImage[0].p",
+          "resource": "images/mmexport1668854236441.jpg"
+        }
+      ]
+    },
+    {
+      "id": "x3-e54b4d1c4e3d55e5",
+      "name": "尽界•光遇",
+      "category": "games",
+      "categoryName": "游戏",
+      "aliases": [
+        "尽界•光遇"
+      ],
+      "packagePath": "themes/x3/packages/games/尽界-光遇-e54b4d1c.zip",
+      "assetPath": "assets/theme-catalog/packages/games/尽界-光遇-e54b4d1c.zip",
+      "previewPath": "themes/x3/previews/x3-e54b4d1c4e3d55e5.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-e54b4d1c4e3d55e5.webp",
+      "sha256": "03318f361232bcc5b4fac485a7f2748d7375521dd623b4e569ee1d4555380f91",
+      "bytes": 10766234,
+      "originalSha256": "e54b4d1c4e3d55e519bd4d5db452eb71f8ba34863df642bfdf46790fd420b0a3",
+      "originalFiles": [
+        "尽界•光遇45.zip"
+      ],
+      "previewSha256": "b438e128576cac00d0f9bd56e9561d2c32d7273c08f4890277511f9bb144e1a1",
+      "previewBytes": 11316,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-17e03ebcc9e248d9",
+      "name": "尽界•鱿鱼游戏",
+      "category": "games",
+      "categoryName": "游戏",
+      "aliases": [
+        "尽界•鱿鱼游戏"
+      ],
+      "packagePath": "themes/x3/packages/games/尽界-鱿鱼游戏-17e03ebc.zip",
+      "assetPath": "assets/theme-catalog/packages/games/尽界-鱿鱼游戏-17e03ebc.zip",
+      "previewPath": "themes/x3/previews/x3-17e03ebcc9e248d9.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-17e03ebcc9e248d9.webp",
+      "sha256": "7dca3fc40806862604021fe50510dbc5a87ca05cfdb9a88b688c9b3128016d93",
+      "bytes": 6343359,
+      "originalSha256": "17e03ebcc9e248d98e13bc210fc54c68642028ac2805dd4dabb4d889e6a53e78",
+      "originalFiles": [
+        "尽界•鱿鱼游戏50.zip"
+      ],
+      "previewSha256": "7e6fa232b8d5b3ef442bef07a2e62c2bdac48cda69253acad289083bdd438736",
+      "previewBytes": 5702,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "missingRequiredImages": [
+        {
+          "setting": "$settings.SplashImage[0].p",
+          "resource": "images/mmexport1668854236441.jpg"
+        }
+      ]
+    },
+    {
+      "id": "x3-d6372d11cd23df3e",
+      "name": "星球主题 v1.4",
+      "category": "games",
+      "categoryName": "游戏",
+      "aliases": [
+        "星球主题 v1.4"
+      ],
+      "packagePath": "themes/x3/packages/games/星球主题-v1.4-d6372d11.zip",
+      "assetPath": "assets/theme-catalog/packages/games/星球主题-v1.4-d6372d11.zip",
+      "previewPath": "themes/x3/previews/x3-d6372d11cd23df3e.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-d6372d11cd23df3e.webp",
+      "sha256": "0771b39b47ec2536f3555b647e2980c58d7e2d27a6a4a6f985f65eec12b77d0e",
+      "bytes": 14252675,
+      "originalSha256": "d6372d11cd23df3e2a6509e1b8e7ea40ecca002bc5b4978c2ea511350bfc7dc4",
+      "originalFiles": [
+        "星球主题 v1.481.zip"
+      ],
+      "previewSha256": "bc2284d6e8fa4ea6055c2b3ce0e08c4242986d975a0d2f67f576f20e01a82259",
+      "previewBytes": 3158,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [
+        "转换后视觉效果未作真机验收"
+      ],
+      "convertedFromOriginalFormat": true
+    },
+    {
+      "id": "x3-abeb2a9d9f7d5249",
+      "name": "今夜月色真美",
+      "category": "landscape",
+      "categoryName": "风景",
+      "aliases": [
+        "今夜月色真美"
+      ],
+      "packagePath": "themes/x3/packages/landscape/今夜月色真美-abeb2a9d.zip",
+      "assetPath": "assets/theme-catalog/packages/landscape/今夜月色真美-abeb2a9d.zip",
+      "previewPath": "themes/x3/previews/x3-abeb2a9d9f7d5249.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-abeb2a9d9f7d5249.webp",
+      "sha256": "e1fdaca2d4d82d962adad9424806b3b72d9a5a5f917d73eed61a91dc4100a450",
+      "bytes": 10272162,
+      "originalSha256": "abeb2a9d9f7d524911826ad13148e64b27fbe9c7ae2574162c24a80d1702158c",
+      "originalFiles": [
+        "今夜月色真美42.zip"
+      ],
+      "previewSha256": "5f2c43680ed8961267a008dc8171b16326b05b38f48a5917eeedba420df086bc",
+      "previewBytes": 17752,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [
+        "原Assets.rbt的专用资源内容未由X3消费；真实原调色板已映射至X3各页、ActionBar、底栏和文字设置",
+        "转换后视觉效果未作真机验收"
+      ],
+      "convertedFromOriginalFormat": true
+    },
+    {
+      "id": "x3-8d6bd76c340a96f2",
+      "name": "夏日",
+      "category": "landscape",
+      "categoryName": "风景",
+      "aliases": [
+        "夏日"
+      ],
+      "packagePath": "themes/x3/packages/landscape/夏日-8d6bd76c.zip",
+      "assetPath": "assets/theme-catalog/packages/landscape/夏日-8d6bd76c.zip",
+      "previewPath": "themes/x3/previews/x3-8d6bd76c340a96f2.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-8d6bd76c340a96f2.webp",
+      "sha256": "952de470ca10d0088590e770b16933ed276030b70ba401fccb26075687ac1b4d",
+      "bytes": 2651625,
+      "originalSha256": "8d6bd76c340a96f2789058b521d2ac76433196872a6c6c9a10786e169fafb76b",
+      "originalFiles": [
+        "夏日.zip"
+      ],
+      "previewSha256": "aa60ce509f94fda60cf1e85a7eac90a6fe5a8b14788fb047448c5b3755da28e6",
+      "previewBytes": 7844,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-03bd8a1b1e03e231",
+      "name": "山峰灰",
+      "category": "landscape",
+      "categoryName": "风景",
+      "aliases": [
+        "山峰灰"
+      ],
+      "packagePath": "themes/x3/packages/landscape/山峰灰-03bd8a1b.zip",
+      "assetPath": "assets/theme-catalog/packages/landscape/山峰灰-03bd8a1b.zip",
+      "previewPath": "themes/x3/previews/x3-03bd8a1b1e03e231.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-03bd8a1b1e03e231.webp",
+      "sha256": "8eb9e13263a57fa5032e8f2b6071a2069a36a5bddcc7ebdd23998edebb761dd1",
+      "bytes": 459927,
+      "originalSha256": "03bd8a1b1e03e231207d7e081e1247634f9241d99a3b2f3f1fd82857ebebd779",
+      "originalFiles": [
+        "山峰灰66.zip"
+      ],
+      "previewSha256": "640e9a90d61c99371fae528d92ad6c10a32ec55931557d7021acc1341602e651",
+      "previewBytes": 4158,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-945110e5f517805b",
+      "name": "山峰画",
+      "category": "landscape",
+      "categoryName": "风景",
+      "aliases": [
+        "山峰画"
+      ],
+      "packagePath": "themes/x3/packages/landscape/山峰画-945110e5.zip",
+      "assetPath": "assets/theme-catalog/packages/landscape/山峰画-945110e5.zip",
+      "previewPath": "themes/x3/previews/x3-945110e5f517805b.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-945110e5f517805b.webp",
+      "sha256": "8c9a7b36f89f410deec18086b74c70868d934b6d8d855aa8a8a50a8b23938ca2",
+      "bytes": 4424452,
+      "originalSha256": "945110e5f517805b69fbdf7489a59f77242bf291e2fa6a71f8dc162f11e7d60a",
+      "originalFiles": [
+        "山峰画65.zip"
+      ],
+      "previewSha256": "24badb329bdbbb220296218dffb5522538b7f42ae3c71bf0d13ce198892c4ffc",
+      "previewBytes": 9464,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-33c95a33a209d170",
+      "name": "山画",
+      "category": "landscape",
+      "categoryName": "风景",
+      "aliases": [
+        "山画"
+      ],
+      "packagePath": "themes/x3/packages/landscape/山画-33c95a33.zip",
+      "assetPath": "assets/theme-catalog/packages/landscape/山画-33c95a33.zip",
+      "previewPath": "themes/x3/previews/x3-33c95a33a209d170.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-33c95a33a209d170.webp",
+      "sha256": "3c56ca39032c6dee778bf445f41750bac4b2b8c6aad935ad476a59995543d914",
+      "bytes": 2305477,
+      "originalSha256": "33c95a33a209d1704647512de16da5af77dbb7db9da1621e851536ff529fce8c",
+      "originalFiles": [
+        "山画67.zip"
+      ],
+      "previewSha256": "34a80fe34fb06123cb533b72800c28ac91b5696c867ed88edd8411ccae9dc4aa",
+      "previewBytes": 23362,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-a611659011722447",
+      "name": "彼岸花开",
+      "category": "landscape",
+      "categoryName": "风景",
+      "aliases": [
+        "彼岸花开"
+      ],
+      "packagePath": "themes/x3/packages/landscape/彼岸花开-a6116590.zip",
+      "assetPath": "assets/theme-catalog/packages/landscape/彼岸花开-a6116590.zip",
+      "previewPath": "themes/x3/previews/x3-a611659011722447.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-a611659011722447.webp",
+      "sha256": "0476072a586b820ba291949ac6a18c4b88e1c08c4ab196cad61ae33358e8b26d",
+      "bytes": 2487312,
+      "originalSha256": "a6116590117224471460318c7128522ea5b10596eecbf81e777198f66d703279",
+      "originalFiles": [
+        "彼岸花开18.zip"
+      ],
+      "previewSha256": "98bbcf7aa80365da6151c58b9e41024458eabdf16f411321676f7b54dde2e715",
+      "previewBytes": 3116,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-777bc769673a7b36",
+      "name": "星河",
+      "category": "landscape",
+      "categoryName": "风景",
+      "aliases": [
+        "星河"
+      ],
+      "packagePath": "themes/x3/packages/landscape/星河-777bc769.zip",
+      "assetPath": "assets/theme-catalog/packages/landscape/星河-777bc769.zip",
+      "previewPath": "themes/x3/previews/x3-777bc769673a7b36.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-777bc769673a7b36.webp",
+      "sha256": "a6cb371a2de721bd029e8d54b01e3b346ee2b15e3987088dc55ded3cf45171b0",
+      "bytes": 8565404,
+      "originalSha256": "777bc769673a7b36895876bd4842d3dbf0edac1d4f27ca11d8f12fb2d94f0188",
+      "originalFiles": [
+        "星河80.zip"
+      ],
+      "previewSha256": "4ef50964857abff7f549e02a6b4350553ceca85019bb440f20fafab26b052b19",
+      "previewBytes": 23420,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-fa7b74093b878d3a",
+      "name": "春意渐变主题",
+      "category": "landscape",
+      "categoryName": "风景",
+      "aliases": [
+        "春意渐变主题"
+      ],
+      "packagePath": "themes/x3/packages/landscape/春意渐变主题-fa7b7409.zip",
+      "assetPath": "assets/theme-catalog/packages/landscape/春意渐变主题-fa7b7409.zip",
+      "previewPath": "themes/x3/previews/x3-fa7b74093b878d3a.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-fa7b74093b878d3a.webp",
+      "sha256": "fca65002d83135ce145ca49a9662ef6b9946d13c53e04e9d06da70415b1d44c3",
+      "bytes": 12982418,
+      "originalSha256": "fa7b74093b878d3a904feb7ed0c8f3d3c8ef7b0a4f70c44793ae8e6641d23334",
+      "originalFiles": [
+        "春意渐变主题20.zip"
+      ],
+      "previewSha256": "75703e4acccb58da9f40ee2a37ade69b20ff6ed6699ad03977ca54b401737965",
+      "previewBytes": 926,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [
+        "转换后视觉效果未作真机验收"
+      ],
+      "convertedFromOriginalFormat": true
+    },
+    {
+      "id": "x3-e998b697d3eac940",
+      "name": "春风与你8.0",
+      "category": "landscape",
+      "categoryName": "风景",
+      "aliases": [
+        "春风与你8.0"
+      ],
+      "packagePath": "themes/x3/packages/landscape/春风与你8.0-e998b697.zip",
+      "assetPath": "assets/theme-catalog/packages/landscape/春风与你8.0-e998b697.zip",
+      "previewPath": "themes/x3/previews/x3-e998b697d3eac940.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-e998b697d3eac940.webp",
+      "sha256": "04fb2927eecaaac670e5418f946ff91d7fab2b50257314d2447f2e278c804db8",
+      "bytes": 886491,
+      "originalSha256": "e998b697d3eac940a5671eba0b78ed2123279f978a709eb93ffcaf2167a5956c",
+      "originalFiles": [
+        "春风与你8.0.zip"
+      ],
+      "previewSha256": "97d276979e2faa41a92d9e4282a9cfa48afff2ad18a4aedefad3be07d65da0c7",
+      "previewBytes": 804,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-e04106bc1d18ba30",
+      "name": "春风十里新",
+      "category": "landscape",
+      "categoryName": "风景",
+      "aliases": [
+        "春风十里新"
+      ],
+      "packagePath": "themes/x3/packages/landscape/春风十里新-e04106bc.zip",
+      "assetPath": "assets/theme-catalog/packages/landscape/春风十里新-e04106bc.zip",
+      "previewPath": "themes/x3/previews/x3-e04106bc1d18ba30.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-e04106bc1d18ba30.webp",
+      "sha256": "c96456588ce20a927a8b2b4a4bf0519da8990b8554d35516e216bb086cf94ec2",
+      "bytes": 333100,
+      "originalSha256": "e04106bc1d18ba30ab98fabd97662340f89feeced3377c462efecbd0c60b28f9",
+      "originalFiles": [
+        "春风十里新.zip"
+      ],
+      "previewSha256": "82011e98d4c8b24a6ce363f01ead72441e8e38fec62b9af02d46cc28be9333dd",
+      "previewBytes": 4302,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-e749e43ccc8124fe",
+      "name": "暮色灯塔",
+      "category": "landscape",
+      "categoryName": "风景",
+      "aliases": [
+        "暮色灯塔"
+      ],
+      "packagePath": "themes/x3/packages/landscape/暮色灯塔-e749e43c.zip",
+      "assetPath": "assets/theme-catalog/packages/landscape/暮色灯塔-e749e43c.zip",
+      "previewPath": "themes/x3/previews/x3-e749e43ccc8124fe.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-e749e43ccc8124fe.webp",
+      "sha256": "f1622b71f994101f08029aef29ea3ab0c95ff76a686af096e4c51f87750e7831",
+      "bytes": 417448,
+      "originalSha256": "e749e43ccc8124fe08be639467973210ed95bbb70673394e8d0e5ab251fa6fae",
+      "originalFiles": [
+        "暮色灯塔61.zip"
+      ],
+      "previewSha256": "b6103b3092f10ed7c1d245ce7cdb627909e64213baa379ab5fa82dc4ae0f699b",
+      "previewBytes": 3416,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-a9e2672896df931b",
+      "name": "最美国风",
+      "category": "landscape",
+      "categoryName": "风景",
+      "aliases": [
+        "最美国风"
+      ],
+      "packagePath": "themes/x3/packages/landscape/最美国风-a9e26728.zip",
+      "assetPath": "assets/theme-catalog/packages/landscape/最美国风-a9e26728.zip",
+      "previewPath": "themes/x3/previews/x3-a9e2672896df931b.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-a9e2672896df931b.webp",
+      "sha256": "690be47bce8e70f61eeaecc5356e2ca9ef3fab8cd30f8c27c64bd191871a6323",
+      "bytes": 8415109,
+      "originalSha256": "a9e2672896df931bc78288e41bfe69582ec869ff8c554ead0e16001ac8b9a3a0",
+      "originalFiles": [
+        "最美国风.zip"
+      ],
+      "previewSha256": "e76f9e9ea67afbdc518785ca35a274d2139ad381f491c504c181c98c3a3f4178",
+      "previewBytes": 10640,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "missingRequiredImages": [
+        {
+          "setting": "$settings.SplashImage[0].p",
+          "resource": "images/0d4c7108a897b64344e4465c01cb01fa.png"
+        }
+      ]
+    },
+    {
+      "id": "x3-575ca17f5f6b364c",
+      "name": "水绿丹青",
+      "category": "landscape",
+      "categoryName": "风景",
+      "aliases": [
+        "水绿丹青"
+      ],
+      "packagePath": "themes/x3/packages/landscape/水绿丹青-575ca17f.zip",
+      "assetPath": "assets/theme-catalog/packages/landscape/水绿丹青-575ca17f.zip",
+      "previewPath": "themes/x3/previews/x3-575ca17f5f6b364c.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-575ca17f5f6b364c.webp",
+      "sha256": "8646d102ca3850908015cccfc38b673a899f80af8ea00ca3db4258b991385415",
+      "bytes": 4566935,
+      "originalSha256": "575ca17f5f6b364c84b925061c2b0101edb384257b820acc104840ea916adabb",
+      "originalFiles": [
+        "水绿丹青69.zip"
+      ],
+      "previewSha256": "68d2c8f0d281762e59e3367bba3d5af20b53df3a5cfbe5404aa695d1d656b88c",
+      "previewBytes": 4098,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-e6afad516ca31cb4",
+      "name": "荷叶塘",
+      "category": "landscape",
+      "categoryName": "风景",
+      "aliases": [
+        "荷叶塘"
+      ],
+      "packagePath": "themes/x3/packages/landscape/荷叶塘-e6afad51.zip",
+      "assetPath": "assets/theme-catalog/packages/landscape/荷叶塘-e6afad51.zip",
+      "previewPath": "themes/x3/previews/x3-e6afad516ca31cb4.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-e6afad516ca31cb4.webp",
+      "sha256": "5fe0c8bb955e1bf5a62381c56d0e002b182774ff4376989fa14e5947fe0ae0a3",
+      "bytes": 1656906,
+      "originalSha256": "e6afad516ca31cb46652171eb00dc1c8c9c5c0244919b95031603ecff2bc6796",
+      "originalFiles": [
+        "荷叶塘36.zip"
+      ],
+      "previewSha256": "85a5ebd4f3d72a7f494c7147f1385a9f5348d193104481b872a942f3be4611c2",
+      "previewBytes": 24440,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-ab481883cc3e0396",
+      "name": "荷塘月色",
+      "category": "landscape",
+      "categoryName": "风景",
+      "aliases": [
+        "荷塘月色"
+      ],
+      "packagePath": "themes/x3/packages/landscape/荷塘月色-ab481883.zip",
+      "assetPath": "assets/theme-catalog/packages/landscape/荷塘月色-ab481883.zip",
+      "previewPath": "themes/x3/previews/x3-ab481883cc3e0396.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-ab481883cc3e0396.webp",
+      "sha256": "bac44c3e51f733ba76e61df639e00688692567018bb2514396e4aae572048a12",
+      "bytes": 1064799,
+      "originalSha256": "ab481883cc3e03968b19b8c2bfba32b9434f9ba990c21b00d3d3edadc29561b4",
+      "originalFiles": [
+        "荷塘月色35.zip"
+      ],
+      "previewSha256": "d0d001548a4fcbc5244a9bc26246ee99e98799f55841d6c8f51c560cbfc3df00",
+      "previewBytes": 10190,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-fc883351cdb53dd6",
+      "name": "萤火",
+      "category": "landscape",
+      "categoryName": "风景",
+      "aliases": [
+        "萤火"
+      ],
+      "packagePath": "themes/x3/packages/landscape/萤火-fc883351.zip",
+      "assetPath": "assets/theme-catalog/packages/landscape/萤火-fc883351.zip",
+      "previewPath": "themes/x3/previews/x3-fc883351cdb53dd6.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-fc883351cdb53dd6.webp",
+      "sha256": "aa533760a64891e6ff8e8a8260678f2ad7c0a5693d026e527454fcd539f38236",
+      "bytes": 4856493,
+      "originalSha256": "fc883351cdb53dd695740b3b9d9fafe07148625a7e56b7f8d7f75d53992e6e1f",
+      "originalFiles": [
+        "萤火.zip"
+      ],
+      "previewSha256": "dd08b8e86821111f8e4b364dce09c48956e567090409472f55439cb3600d2c26",
+      "previewBytes": 19106,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-54e12df1d3490fa9",
+      "name": "迷你小池塘",
+      "category": "landscape",
+      "categoryName": "风景",
+      "aliases": [
+        "迷你小池塘"
+      ],
+      "packagePath": "themes/x3/packages/landscape/迷你小池塘-54e12df1.zip",
+      "assetPath": "assets/theme-catalog/packages/landscape/迷你小池塘-54e12df1.zip",
+      "previewPath": "themes/x3/previews/x3-54e12df1d3490fa9.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-54e12df1d3490fa9.webp",
+      "sha256": "bb8fa448b9ddf08f6fa5d94d0a430bcad4bce14e775228c15f1acd33a04420a7",
+      "bytes": 1383363,
+      "originalSha256": "54e12df1d3490fa9d2d247641c90aa70173a09b1afe733774f3946f792d31443",
+      "originalFiles": [
+        "迷你小池塘60.zip"
+      ],
+      "previewSha256": "49eaccfa0e7f36bb7a9ef6a1057255f6d53b3dcaf59790398beb1a13f2d16944",
+      "previewBytes": 14124,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-33232285a12153fa",
+      "name": "青石板",
+      "category": "landscape",
+      "categoryName": "风景",
+      "aliases": [
+        "青石板"
+      ],
+      "packagePath": "themes/x3/packages/landscape/青石板-33232285.zip",
+      "assetPath": "assets/theme-catalog/packages/landscape/青石板-33232285.zip",
+      "previewPath": "themes/x3/previews/x3-33232285a12153fa.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-33232285a12153fa.webp",
+      "sha256": "bf6bc4a819eac008c2af01edf3fc21aea3383856f991922582bd89e85aeaf4a7",
+      "bytes": 522533,
+      "originalSha256": "33232285a12153fa94e89865a8d75fbc8f9e3bb20c87f567bf5e109d14198137",
+      "originalFiles": [
+        "青石板64.zip"
+      ],
+      "previewSha256": "2e1924072bb31facb4cde72b65d306a9a3182616007c17e79a9f8f2caf02549e",
+      "previewBytes": 4306,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-4fb242301a18bd56",
+      "name": "青花没有瓷",
+      "category": "landscape",
+      "categoryName": "风景",
+      "aliases": [
+        "青花没有瓷"
+      ],
+      "packagePath": "themes/x3/packages/landscape/青花没有瓷-4fb24230.zip",
+      "assetPath": "assets/theme-catalog/packages/landscape/青花没有瓷-4fb24230.zip",
+      "previewPath": "themes/x3/previews/x3-4fb242301a18bd56.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-4fb242301a18bd56.webp",
+      "sha256": "7963b95f139c39ccf67e161ef19411867e27c7e9541f0b4678af60d01bbb818d",
+      "bytes": 11632471,
+      "originalSha256": "4fb242301a18bd56f2e1464521c8805a00011c69c4329131cfead613f9e77655",
+      "originalFiles": [
+        "青花没有瓷.zip"
+      ],
+      "previewSha256": "1edd446c948e9224f53d5638188143c591bf5d4e325ca749d5f819adb4425c07",
+      "previewBytes": 17022,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "missingRequiredImages": [
+        {
+          "setting": "$settings.SplashImage[0].p",
+          "resource": "images/0d4c7108a897b64344e4465c01cb01fa.png"
+        }
+      ]
+    },
+    {
+      "id": "x3-7a76638b58f65917",
+      "name": "风轻云淡",
+      "category": "landscape",
+      "categoryName": "风景",
+      "aliases": [
+        "风轻云淡"
+      ],
+      "packagePath": "themes/x3/packages/landscape/风轻云淡-7a76638b.zip",
+      "assetPath": "assets/theme-catalog/packages/landscape/风轻云淡-7a76638b.zip",
+      "previewPath": "themes/x3/previews/x3-7a76638b58f65917.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-7a76638b58f65917.webp",
+      "sha256": "ecfada9bc78d8c00af881fa1b9724a6df9b22b52afff530722acab7bb5f3b716",
+      "bytes": 2434043,
+      "originalSha256": "7a76638b58f65917e1c1c922c9cca559562b5f610020798847f1ed79ead30bab",
+      "originalFiles": [
+        "风轻云淡27.zip"
+      ],
+      "previewSha256": "aad62960c2fd7c8552754ca3a8054d0dff4b2a35d6c613611e2cd492d77d0f49",
+      "previewBytes": 5494,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-59d275241f485965",
+      "name": "Hansiy",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "Hansiy"
+      ],
+      "packagePath": "themes/x3/packages/minimal/Hansiy-59d27524.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/Hansiy-59d27524.zip",
+      "previewPath": "themes/x3/previews/x3-59d275241f485965.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-59d275241f485965.webp",
+      "sha256": "845f07f4f1ca4df67835cc7983071864f2c2e6e528a046f094fd2a978c7b3721",
+      "bytes": 29815974,
+      "originalSha256": "59d275241f485965e50125ad33cc50c73214635faaa80da04979c8185bfbb6b8",
+      "originalFiles": [
+        "X主题【Hansiy】(1).zip"
+      ],
+      "previewSha256": "442f4a26e32060fc431d0e83afa338d152e1b169e2dbb149dc352cb4317e64ea",
+      "previewBytes": 67894,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [
+        "转换后视觉效果未作真机验收"
+      ],
+      "convertedFromOriginalFormat": true
+    },
+    {
+      "id": "x3-5b1d4828638ece50",
+      "name": "ikun专用主题",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "ikun专用主题"
+      ],
+      "packagePath": "themes/x3/packages/minimal/ikun专用主题-5b1d4828.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/ikun专用主题-5b1d4828.zip",
+      "previewPath": "themes/x3/previews/x3-5b1d4828638ece50.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-5b1d4828638ece50.webp",
+      "sha256": "416f513eb44eca733180475169870e96eee5d01e0b04b4bcc4128dd917e082e6",
+      "bytes": 911282,
+      "originalSha256": "5b1d4828638ece50eaeca6ba7a3165b3f4a25440aac1a533cc9d989eb2a0a316",
+      "originalFiles": [
+        "ikun专用主题89.zip"
+      ],
+      "previewSha256": "8f5969da08a57724bcfc6decc676770115265a6efa5a7314d3a99c86453add73",
+      "previewBytes": 11982,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-ce8b932023a392d4",
+      "name": "下班了朋友",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "下班了朋友"
+      ],
+      "packagePath": "themes/x3/packages/minimal/下班了朋友-ce8b9320.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/下班了朋友-ce8b9320.zip",
+      "previewPath": "themes/x3/previews/x3-ce8b932023a392d4.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-ce8b932023a392d4.webp",
+      "sha256": "8a3b9aa9cc5b4acf588ab392dfc84045b86015eff17a6a415a99ae8c9bac5c91",
+      "bytes": 969182,
+      "originalSha256": "ce8b932023a392d42e31497fda42217e7a8716fe3bb22820ec4cf08f47eacdc1",
+      "originalFiles": [
+        "下班了朋友76.zip"
+      ],
+      "previewSha256": "5d0b1f071dfe560ce0a10d400f50a93b93fe53a56bc5b00306bb561541a68e01",
+      "previewBytes": 16406,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-a1382452b830106a",
+      "name": "发财上岸",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "发财上岸"
+      ],
+      "packagePath": "themes/x3/packages/minimal/发财上岸-a1382452.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/发财上岸-a1382452.zip",
+      "previewPath": "themes/x3/previews/x3-a1382452b830106a.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-a1382452b830106a.webp",
+      "sha256": "daf6295e8c009f3688285e9f6710a600eaaadf0fdec6df1cc1b4a8af9d4e8433",
+      "bytes": 2655995,
+      "originalSha256": "a1382452b830106ac47bf7e283419c72ea52a057c66fa8ab727678c23b971218",
+      "originalFiles": [
+        "发财上岸23.zip"
+      ],
+      "previewSha256": "34d55e7880998df0cc32253975233468dfc1d4a50dd3cfe747c888bf0e21850e",
+      "previewBytes": 27456,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-6f98744f0f91ac8a",
+      "name": "墨•糖复刻版",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "墨•糖复刻版"
+      ],
+      "packagePath": "themes/x3/packages/minimal/墨-糖复刻版-6f98744f.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/墨-糖复刻版-6f98744f.zip",
+      "previewPath": "themes/x3/previews/x3-6f98744f0f91ac8a.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-6f98744f0f91ac8a.webp",
+      "sha256": "a8c31f34ca9bf58707e854989029942210266731e3fcd1816e1cb27c264b22e8",
+      "bytes": 883809,
+      "originalSha256": "6f98744f0f91ac8a9a0ba96373f8f241710a35630dfe99ea6b03f364bfced688",
+      "originalFiles": [
+        "墨•糖复刻版13.zip"
+      ],
+      "previewSha256": "004b65d7efb15aab225d059c7e8d6c945ecca5ab0061abfe7f0e3fd1ce2205c3",
+      "previewBytes": 5186,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "missingRequiredImages": [
+        {
+          "setting": "$settings.SplashImage[0].p",
+          "resource": "images/mmexport1668854236441.jpg"
+        }
+      ]
+    },
+    {
+      "id": "x3-e431586e95e421d3",
+      "name": "婉芯-简约风",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "婉芯-简约风"
+      ],
+      "packagePath": "themes/x3/packages/minimal/婉芯-简约风-e431586e.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/婉芯-简约风-e431586e.zip",
+      "previewPath": "themes/x3/previews/x3-e431586e95e421d3.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-e431586e95e421d3.webp",
+      "sha256": "8942a9376f34bd6d52bdce76e077192a7601f9116d2e5e0286349c02d088b5df",
+      "bytes": 3017894,
+      "originalSha256": "e431586e95e421d3b83b266fa20afcd2ad13ff6e506dd52bfc5edbfca76f1375",
+      "originalFiles": [
+        "婉芯-简约风71.zip"
+      ],
+      "previewSha256": "53ee35cc02b740b43138afabbcaafb2b9054d63a251c9569ba78c5ff2b80982c",
+      "previewBytes": 9498,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-cbcfed4b0cbc3fe7",
+      "name": "宁空",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "宁空",
+        "尽界•宁空"
+      ],
+      "packagePath": "themes/x3/packages/minimal/宁空-cbcfed4b.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/宁空-cbcfed4b.zip",
+      "previewPath": "themes/x3/previews/x3-cbcfed4b0cbc3fe7.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-cbcfed4b0cbc3fe7.webp",
+      "sha256": "4c1ae13da9f9fe79d8ce9ebb5d40925d6ee20fa395b1b99e8115820e84b15332",
+      "bytes": 2441484,
+      "originalSha256": "cbcfed4b0cbc3fe7ce48b8fcc85fb35a012ff4c56c2a655dc04aadc75e0dfd78",
+      "originalFiles": [
+        "宁空.zip",
+        "尽界•宁空48.zip"
+      ],
+      "previewSha256": "9b899df88e4bdab1929f00f45aea4ef26676b7a89157a0eaaf689aa8daaf3c5a",
+      "previewBytes": 13928,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "missingRequiredImages": [
+        {
+          "setting": "$settings.SplashImage[0].p",
+          "resource": "images/mmexport1668854236441.jpg"
+        }
+      ]
+    },
+    {
+      "id": "x3-51634d45fab8847f",
+      "name": "定制",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "定制"
+      ],
+      "packagePath": "themes/x3/packages/minimal/定制-51634d45.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/定制-51634d45.zip",
+      "previewPath": "themes/x3/previews/x3-51634d45fab8847f.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-51634d45fab8847f.webp",
+      "sha256": "453592b2f6124fb836fbaf3906ea95dbbd3b4444bda7f1ac98da56e716e7a6e4",
+      "bytes": 5035492,
+      "originalSha256": "51634d45fab8847ff3a38c02f390628e851dba5fd7802fa169953b279c7e4b16",
+      "originalFiles": [
+        "定制.zip"
+      ],
+      "previewSha256": "d5fcd7076104f8c33d8626c90dd50adfbba24eb6fd5b0f0254463a560a5be5c6",
+      "previewBytes": 33492,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-564d45752bad55e6",
+      "name": "小清新二改",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "小清新二改"
+      ],
+      "packagePath": "themes/x3/packages/minimal/小清新二改-564d4575.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/小清新二改-564d4575.zip",
+      "previewPath": "themes/x3/previews/x3-564d45752bad55e6.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-564d45752bad55e6.webp",
+      "sha256": "736f29f2f4b656501e72490e52b2cda5e6d7af07208072e41e98cc92a70dedc0",
+      "bytes": 8593546,
+      "originalSha256": "564d45752bad55e64867e0fd9e14dd07bb89625f68afab7f80238992d6e2592c",
+      "originalFiles": [
+        "-小清新二改.zip"
+      ],
+      "previewSha256": "8696b49c1e763ae92e1d4c0904d38d6b56cf4422871241db6b5712647b2005d0",
+      "previewBytes": 9942,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-396b3bca332f95b4",
+      "name": "尽界•海绵宝宝",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "尽界•海绵宝宝"
+      ],
+      "packagePath": "themes/x3/packages/minimal/尽界-海绵宝宝-396b3bca.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/尽界-海绵宝宝-396b3bca.zip",
+      "previewPath": "themes/x3/previews/x3-396b3bca332f95b4.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-396b3bca332f95b4.webp",
+      "sha256": "9a6fe11f3dbce02e8c58af0c145ca8421542a54fe2b7c2c6ad0b767650f6cbba",
+      "bytes": 2616084,
+      "originalSha256": "396b3bca332f95b42927a0ae628a04282a9fc86e4180fb83d6e7141bc0c85886",
+      "originalFiles": [
+        "尽界•海绵宝宝46.zip"
+      ],
+      "previewSha256": "2de25b482ebcb7f5e40b8c33a15762d08c5ab2ffefe683eb72d0a5235d82343f",
+      "previewBytes": 28802,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "missingRequiredImages": [
+        {
+          "setting": "$settings.SplashImage[0].p",
+          "resource": "images/mmexport1668854236441.jpg"
+        }
+      ]
+    },
+    {
+      "id": "x3-bb1837344afb17de",
+      "name": "尽界（初代",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "尽界（初代"
+      ],
+      "packagePath": "themes/x3/packages/minimal/尽界-初代-bb183734.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/尽界-初代-bb183734.zip",
+      "previewPath": "themes/x3/previews/x3-bb1837344afb17de.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-bb1837344afb17de.webp",
+      "sha256": "cb46029c532617828f4869a6a0d025456a187807ce2617905afa72b6f0a4baeb",
+      "bytes": 1659587,
+      "originalSha256": "bb1837344afb17de1aee5d6cd04d69749914391f92c97be3d22914d4d3daa094",
+      "originalFiles": [
+        "尽界（初代）43.zip"
+      ],
+      "previewSha256": "1a1090adf076f0681d696f524741bd02c8a2beefdb588c279a7c82a16d74798e",
+      "previewBytes": 10114,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-52b2413b147499d3",
+      "name": "新二次元主题",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "新二次元主题"
+      ],
+      "packagePath": "themes/x3/packages/minimal/新二次元主题-52b2413b.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/新二次元主题-52b2413b.zip",
+      "previewPath": "themes/x3/previews/x3-52b2413b147499d3.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-52b2413b147499d3.webp",
+      "sha256": "264aeac565dc9c3532438f6302b24f2d76c397107c012f9dea45f2c1760e2633",
+      "bytes": 3808260,
+      "originalSha256": "52b2413b147499d399c68fe0fd3f3d396b2db4ed89805101b9d1fbdfbc079497",
+      "originalFiles": [
+        "新二次元主题79.zip"
+      ],
+      "previewSha256": "d23053475b33a2ce899e44d8db217f16d97bb7e9b1a8000b2f1ad3e973eb88b2",
+      "previewBytes": 17288,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "bitmapCompatibilityRevision": 1
+    },
+    {
+      "id": "x3-635241c4ca9738fb",
+      "name": "无题",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "无题"
+      ],
+      "packagePath": "themes/x3/packages/minimal/无题-635241c4.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/无题-635241c4.zip",
+      "previewPath": "themes/x3/previews/x3-635241c4ca9738fb.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-635241c4ca9738fb.webp",
+      "sha256": "6c2fddb84390a2af8189778d61244be6dc85b1c15b8255f255a5270588f21f45",
+      "bytes": 1757668,
+      "originalSha256": "635241c4ca9738fb1c0e52e3988f250f283fa9464946c91bb3ac30e524a3c448",
+      "originalFiles": [
+        "微X主题〈无题〉.zip"
+      ],
+      "previewSha256": "a5ba4ffacabcc051493d317b63b06641cb1d3fa6f7eb5cb1c90e0787b6e4ea05",
+      "previewBytes": 7676,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "missingRequiredImages": [
+        {
+          "setting": "$settings.SplashImage[0].p",
+          "resource": "images/80a9f1ba69cb01cde81354d04e6ebcb8.jpg"
+        }
+      ]
+    },
+    {
+      "id": "x3-38c6b44a1c2aa87c",
+      "name": "毛衣芙芙",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "毛衣芙芙"
+      ],
+      "packagePath": "themes/x3/packages/minimal/毛衣芙芙-38c6b44a.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/毛衣芙芙-38c6b44a.zip",
+      "previewPath": "themes/x3/previews/x3-38c6b44a1c2aa87c.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-38c6b44a1c2aa87c.webp",
+      "sha256": "4c91de0dd2c97243f62f78586db3b33eee81706252af4c768ca530a48ac900fa",
+      "bytes": 4203066,
+      "originalSha256": "38c6b44a1c2aa87c735c28356e0dcca1d01a86f019e2c0c62046ddad6e408dc3",
+      "originalFiles": [
+        "毛衣芙芙57.zip"
+      ],
+      "previewSha256": "2aa6ba90885d78efef0fcc189dfb1334e408dad465eb0e4cc9e80e52f0f25a95",
+      "previewBytes": 22094,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-ba8e892378655edb",
+      "name": "治愈系猫咪",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "治愈系猫咪"
+      ],
+      "packagePath": "themes/x3/packages/minimal/治愈系猫咪-ba8e8923.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/治愈系猫咪-ba8e8923.zip",
+      "previewPath": "themes/x3/previews/x3-ba8e892378655edb.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-ba8e892378655edb.webp",
+      "sha256": "8a11ba53cea72c45b3ac948919f6a5f973ad51d725055ae1ac5804416285f63b",
+      "bytes": 2367886,
+      "originalSha256": "ba8e892378655edb43bd285d71b352d4519c8acb788cc813098b269db19584bc",
+      "originalFiles": [
+        "治愈系猫咪85.zip"
+      ],
+      "previewSha256": "1f42a43ecf01cb902702500fc829c02376cd31be9a3f158c94243d061cd20eab",
+      "previewBytes": 16254,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-319a6e3cd15bc0d5",
+      "name": "深色主题",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "深色主题"
+      ],
+      "packagePath": "themes/x3/packages/minimal/深色主题-319a6e3c.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/深色主题-319a6e3c.zip",
+      "previewPath": "themes/x3/previews/x3-319a6e3cd15bc0d5.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-319a6e3cd15bc0d5.webp",
+      "sha256": "686f5bb288101506c86e7c18d36da94c2c173aae172dc1a56714a4c811fe3d2a",
+      "bytes": 1871331,
+      "originalSha256": "319a6e3cd15bc0d5d519eec40c856f0f99e09d08abe9769667e83f51732de2b5",
+      "originalFiles": [
+        "深色主题68.zip"
+      ],
+      "previewSha256": "117f11fdc823dd34f4ab2b6fb8e795609f3c16cc8d6f6666e148175ed50aa519",
+      "previewBytes": 4156,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-a82f986405c5befd",
+      "name": "清新白",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "清新白"
+      ],
+      "packagePath": "themes/x3/packages/minimal/清新白-a82f9864.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/清新白-a82f9864.zip",
+      "previewPath": "themes/x3/previews/x3-a82f986405c5befd.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-a82f986405c5befd.webp",
+      "sha256": "e73c9dc5855f2b0b25645a5d94df0396d3d02ef63d08f7d30c5bf3b21bd810a9",
+      "bytes": 558080,
+      "originalSha256": "a82f986405c5befd6cb43013c174e9899212c46a64c6e345f4b768518dfb75d8",
+      "originalFiles": [
+        "主题-清新白86.zip"
+      ],
+      "previewSha256": "cf37576ed82fb6f423357ff43644a36be1578d2dcf6e8d84adae5eb4e36b1c01",
+      "previewBytes": 6056,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-c1d1fb2b2c62381a",
+      "name": "漫",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "漫"
+      ],
+      "packagePath": "themes/x3/packages/minimal/漫-c1d1fb2b.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/漫-c1d1fb2b.zip",
+      "previewPath": "themes/x3/previews/x3-c1d1fb2b2c62381a.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-c1d1fb2b2c62381a.webp",
+      "sha256": "1f365c3dd306f7c2a4b218f2fc8f36bf8a8c26f4e59f3317c37202220948fd33",
+      "bytes": 6126333,
+      "originalSha256": "c1d1fb2b2c62381ad695ecd378160a426815604536e417f82dbb54e31e833914",
+      "originalFiles": [
+        "微X主题〈漫〉.zip"
+      ],
+      "previewSha256": "9731548e89dbddbccf8c6ab0e05d152c3a6008e75a46ac4817a8aa4233de0618",
+      "previewBytes": 10956,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "missingRequiredImages": [
+        {
+          "setting": "$settings.SplashImage[0].p",
+          "resource": "images/80a9f1ba69cb01cde81354d04e6ebcb8.jpg"
+        }
+      ]
+    },
+    {
+      "id": "x3-4e9106be29bf3cb5",
+      "name": "白底简约风",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "白底简约风"
+      ],
+      "packagePath": "themes/x3/packages/minimal/白底简约风-4e9106be.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/白底简约风-4e9106be.zip",
+      "previewPath": "themes/x3/previews/x3-4e9106be29bf3cb5.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-4e9106be29bf3cb5.webp",
+      "sha256": "ca088bd4dfa05803bd64dd3564c0b9f56ae2faac8cd8af7996656bab69ee0276",
+      "bytes": 443564,
+      "originalSha256": "4e9106be29bf3cb5d7c8390429e0fc5fbed175568ad222a9f45b7a7121987f99",
+      "originalFiles": [
+        "白底简约风17.zip"
+      ],
+      "previewSha256": "2ef44d31d0bc76b72e477dab35b04b286ca30e3c82ecd729232c6ca4f8cf5ae6",
+      "previewBytes": 8518,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-bac295bdc7515595",
+      "name": "简单的微x主题",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "简单的微x主题"
+      ],
+      "packagePath": "themes/x3/packages/minimal/简单的微x主题-bac295bd.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/简单的微x主题-bac295bd.zip",
+      "previewPath": "themes/x3/previews/x3-bac295bdc7515595.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-bac295bdc7515595.webp",
+      "sha256": "d674f9869ae584a7c849565c0b6087dae1e8b7977a247e9265cf4a5a139f114a",
+      "bytes": 1032940,
+      "originalSha256": "bac295bdc7515595e737c9112d6e6db120c43f76c751b51d90105e91d66073c5",
+      "originalFiles": [
+        "简单的微x主题.zip"
+      ],
+      "previewSha256": "e186426773de8aa075d3ee476844a5cc44623a752aee594753ca9192209281e2",
+      "previewBytes": 3500,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-6cdbed2d9f2f959f",
+      "name": "简洁可爱风",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "简洁可爱风"
+      ],
+      "packagePath": "themes/x3/packages/minimal/简洁可爱风-6cdbed2d.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/简洁可爱风-6cdbed2d.zip",
+      "previewPath": "themes/x3/previews/x3-6cdbed2d9f2f959f.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-6cdbed2d9f2f959f.webp",
+      "sha256": "13857362abbdbc0517806393ffe617890de3e80d2fa868f5f8eb4bf814cc6ac6",
+      "bytes": 17230438,
+      "originalSha256": "6cdbed2d9f2f959fbd8497d4de0a711e57e3db79838cf0da0bb032e660463024",
+      "originalFiles": [
+        "简洁可爱风39.zip"
+      ],
+      "previewSha256": "296936ec33f3dcab9392e23f60c8b0f1da73c1abc64b069729e2b14c4cd06f4d",
+      "previewBytes": 12920,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-fa48cece5d6d5406",
+      "name": "简洁灰",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "简洁灰"
+      ],
+      "packagePath": "themes/x3/packages/minimal/简洁灰-fa48cece.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/简洁灰-fa48cece.zip",
+      "previewPath": "themes/x3/previews/x3-fa48cece5d6d5406.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-fa48cece5d6d5406.webp",
+      "sha256": "fe9c4217dc4a81ad97e19f439c8d6efadd7e1de9828765dad475429362216085",
+      "bytes": 93962,
+      "originalSha256": "fa48cece5d6d5406d5b0a6100048ad75e9c027b2d68895d2978d539aab39387b",
+      "originalFiles": [
+        "简洁灰38.zip"
+      ],
+      "previewSha256": "584d2ba864f36d512e17ce929f87c585ec2f56c6f10e6477442360fd7549c1b1",
+      "previewBytes": 1948,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-c346bdb8591ebc82",
+      "name": "简洁篮",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "简洁篮"
+      ],
+      "packagePath": "themes/x3/packages/minimal/简洁篮-c346bdb8.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/简洁篮-c346bdb8.zip",
+      "previewPath": "themes/x3/previews/x3-c346bdb8591ebc82.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-c346bdb8591ebc82.webp",
+      "sha256": "58a20e79177c1cb845864dfb57e21d2a5edf082bb6e925f916d68c69f017d552",
+      "bytes": 140042,
+      "originalSha256": "c346bdb8591ebc822c9e153ca16b51c5bb25d0a17c649b8c73c45cca249727f2",
+      "originalFiles": [
+        "简洁篮40.zip"
+      ],
+      "previewSha256": "bb6db219f46c0f59e61ed40f8be9efb168d1faaabd02645885df599030434f15",
+      "previewBytes": 1668,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-7cfd8a886878bce6",
+      "name": "简约主题",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "简约主题"
+      ],
+      "packagePath": "themes/x3/packages/minimal/简约主题-7cfd8a88.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/简约主题-7cfd8a88.zip",
+      "previewPath": "themes/x3/previews/x3-7cfd8a886878bce6.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-7cfd8a886878bce6.webp",
+      "sha256": "5d985496e95faff6902df97a41f0a144a5c6bb07e64785613d31f8cbaeb7ce23",
+      "bytes": 185454,
+      "originalSha256": "7cfd8a886878bce6c2687f9076fa0baa2134d8517975df1f519b81bc129c08dd",
+      "originalFiles": [
+        "简约主题41.zip"
+      ],
+      "previewSha256": "aec54df7d6b2c8149e52f70445602e2463876544791c994c7ecdca005e823cc7",
+      "previewBytes": 826,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-cb3bf0cf5285f217",
+      "name": "粉粉的微x主题",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "粉粉的微x主题"
+      ],
+      "packagePath": "themes/x3/packages/minimal/粉粉的微x主题-cb3bf0cf.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/粉粉的微x主题-cb3bf0cf.zip",
+      "previewPath": "themes/x3/previews/x3-cb3bf0cf5285f217.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-cb3bf0cf5285f217.webp",
+      "sha256": "73c46c86e9813689537a857e4fbda45e02be3515dc2ba7d311fca0c8f416d308",
+      "bytes": 1132466,
+      "originalSha256": "cb3bf0cf5285f217fefe1adeb692ceb36ccadc53eae3ac8789280d34e0d55938",
+      "originalFiles": [
+        "粉粉的微x主题24.zip"
+      ],
+      "previewSha256": "3b30bd491ae81ae85c8b904b26ee0281c51f18cf0a703bc68d3ce703eee3342e",
+      "previewBytes": 41038,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-cd5ef6bc1d6a1eaf",
+      "name": "美女主题",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "美女主题"
+      ],
+      "packagePath": "themes/x3/packages/minimal/美女主题-cd5ef6bc.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/美女主题-cd5ef6bc.zip",
+      "previewPath": "themes/x3/previews/x3-cd5ef6bc1d6a1eaf.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-cd5ef6bc1d6a1eaf.webp",
+      "sha256": "deb7ffa35008c0b4b8d0694f0a0743146a7aa1bc33411af62ebf0c19c3dd5bce",
+      "bytes": 3288804,
+      "originalSha256": "cd5ef6bc1d6a1eaf1ee2e2e22cb211bfa8ca0e90b551abd8ed089c388000c5c9",
+      "originalFiles": [
+        "美女主题59.zip"
+      ],
+      "previewSha256": "853c4d5dfc12059bc5dddf8f9d0219e6c98392d6cdf578e2c065354ca37c44d3",
+      "previewBytes": 18736,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-58e17aa2599f7846",
+      "name": "老s批",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "老s批"
+      ],
+      "packagePath": "themes/x3/packages/minimal/老s批-58e17aa2.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/老s批-58e17aa2.zip",
+      "previewPath": "themes/x3/previews/x3-58e17aa2599f7846.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-58e17aa2599f7846.webp",
+      "sha256": "4f9fd267e42d0883ab8581d63a8d15cd5e0ec0dc3e6256525db64d486b5ada64",
+      "bytes": 5518173,
+      "originalSha256": "58e17aa2599f7846d4212c33e0bad15ddec1e63120909e94ba4d85700d8ef364",
+      "originalFiles": [
+        "老s批54.zip"
+      ],
+      "previewSha256": "257bf296aa5e177b9ce808fd69d9684a177fc65f92d38737d53417bf49e46332",
+      "previewBytes": 22024,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    },
+    {
+      "id": "x3-aafb5571071efb9b",
+      "name": "蓝黄",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "蓝黄"
+      ],
+      "packagePath": "themes/x3/packages/minimal/蓝黄-aafb5571.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/蓝黄-aafb5571.zip",
+      "previewPath": "themes/x3/previews/x3-aafb5571071efb9b.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-aafb5571071efb9b.webp",
+      "sha256": "38f993785d02c132e5fd930ff436f0180925734f4a9a04b15999cf917040a3b9",
+      "bytes": 5054009,
+      "originalSha256": "aafb5571071efb9bf7ff515c360156579a6871f0ea9d83dd9297ce0ffb1b7dd1",
+      "originalFiles": [
+        "蓝黄.zip"
+      ],
+      "previewSha256": "d4331e417da89d3dbda4b2d07d6262e2bbb6d018f1e77ce49149768c8ff9b362",
+      "previewBytes": 8818,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [],
+      "packageLocalImagePathRevision": 1
+    },
+    {
+      "id": "x3-30506d8f8dfa5420",
+      "name": "青橙",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "青橙"
+      ],
+      "packagePath": "themes/x3/packages/minimal/青橙-30506d8f.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/青橙-30506d8f.zip",
+      "previewPath": "themes/x3/previews/x3-30506d8f8dfa5420.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-30506d8f8dfa5420.webp",
+      "sha256": "70cf593690d5df9b6b8a8f3b69f1c534b06a0b737a249b10fb94654a38d8c52f",
+      "bytes": 77962,
+      "originalSha256": "30506d8f8dfa54204e2354f87433ed834256961a2b682d115d2972934fc62297",
+      "originalFiles": [
+        "青橙162.zip"
+      ],
+      "previewSha256": "ebfb1b4585dc1a19f7f812f26a35b9cd66e2cb50a39bdf39bc56d4175571f301",
+      "previewBytes": 5448,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": []
+    }
+  ],
+  "sourceArchives": 99,
+  "uniquePackages": 97,
+  "conversionRevision": 2,
+  "bitmapCompatibilityRevision": 1,
+  "packageLocalImagePathRevision": 1
+}

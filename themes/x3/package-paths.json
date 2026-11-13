@@ -1,0 +1,58 @@
+{
+  "revision": 1,
+  "packages": [
+    {
+      "id": "x3-e473bf6f81e8c828",
+      "settingsSha256": "d8594b629149b450c79fab67e7d714d113f376f7d16bf7baac11eab613f319c9",
+      "resources": [
+        {
+          "pointer": "/MainFragmentBackground/0/p",
+          "target": "1000094902.jpg",
+          "resourceSha256": "e5cc9ae1376bb0354d1f7c53de0b9a37c72d0c1464877d6faa5b27b8049aeec5"
+        },
+        {
+          "pointer": "/ContactFragmentBackground/0/p",
+          "target": "1000094873.png",
+          "resourceSha256": "f2379cdfb9a5cc35823b31a7f3fd16aa2354cb80232075afa7c1b84c17dc33d6"
+        },
+        {
+          "pointer": "/MeFragmentBackground/0/p",
+          "target": "1000094894.png",
+          "resourceSha256": "9ba6e685e544973d4b28c56a8c902b683c0ebd1dc7f61bcad7bb643a6a31a92a"
+        },
+        {
+          "pointer": "/DiscoverFragmentBackground/0/p",
+          "target": "4.jpg",
+          "resourceSha256": "ab9eb36f0d4dfac62bdea517c605166ffec0bd7e73c334dc25e63184d8689c8d"
+        }
+      ]
+    },
+    {
+      "id": "x3-c5007b771809b8cd",
+      "settingsSha256": "3096a31b8e41420cd207124c6a8e5691c443b486129d8e1da69a88d8bac19cf2",
+      "resources": [
+        {
+          "pointer": "/MainFragmentBackground/0/p",
+          "target": "mmexport1669006157850.jpg",
+          "resourceSha256": "4e181c8dc49edb72f5cd7f37717a6089b55f2a1d16d7978d7f7f374787a98878"
+        },
+        {
+          "pointer": "/ContactFragmentBackground/0/p",
+          "target": "8397ddf53074bc5c97e828f65f6fd632.png",
+          "resourceSha256": "4e181c8dc49edb72f5cd7f37717a6089b55f2a1d16d7978d7f7f374787a98878"
+        }
+      ]
+    },
+    {
+      "id": "x3-aafb5571071efb9b",
+      "settingsSha256": "02ad21297bf97ac4a35a1b0e7f6f69aa85ee0048d0575e2911dd9c9f5dd83e0d",
+      "resources": [
+        {
+          "pointer": "/ContactFragmentBackground/0/p",
+          "target": "1000059683.jpg",
+          "resourceSha256": "7454dc9d4053dd1a99ff51b4ee0257bf720e1350bc1f8d9403aa5a86490cdc7e"
+        }
+      ]
+    }
+  ]
+}
