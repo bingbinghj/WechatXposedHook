@@ -1285,34 +1285,6 @@
       "convertedFromOriginalFormat": true
     },
     {
-      "id": "x3-abeb2a9d9f7d5249",
-      "name": "今夜月色真美",
-      "category": "landscape",
-      "categoryName": "风景",
-      "aliases": [
-        "今夜月色真美"
-      ],
-      "packagePath": "themes/x3/packages/landscape/今夜月色真美-abeb2a9d.zip",
-      "assetPath": "assets/theme-catalog/packages/landscape/今夜月色真美-abeb2a9d.zip",
-      "previewPath": "themes/x3/previews/x3-abeb2a9d9f7d5249.webp",
-      "previewAssetPath": "assets/theme-catalog/previews/x3-abeb2a9d9f7d5249.webp",
-      "sha256": "e1fdaca2d4d82d962adad9424806b3b72d9a5a5f917d73eed61a91dc4100a450",
-      "bytes": 10272162,
-      "originalSha256": "abeb2a9d9f7d524911826ad13148e64b27fbe9c7ae2574162c24a80d1702158c",
-      "originalFiles": [
-        "今夜月色真美42.zip"
-      ],
-      "previewSha256": "5f2c43680ed8961267a008dc8171b16326b05b38f48a5917eeedba420df086bc",
-      "previewBytes": 17752,
-      "format": "x3-settings",
-      "conversionRequired": false,
-      "limitations": [
-        "原Assets.rbt的专用资源内容未由X3消费；真实原调色板已映射至X3各页、ActionBar、底栏和文字设置",
-        "转换后视觉效果未作真机验收"
-      ],
-      "convertedFromOriginalFormat": true
-    },
-    {
       "id": "x3-8d6bd76c340a96f2",
       "name": "夏日",
       "category": "landscape",
