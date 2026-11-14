@@ -456,8 +456,8 @@
       "assetPath": "assets/theme-catalog/packages/characters/猫羽雫-e473bf6f.zip",
       "previewPath": "themes/x3/previews/x3-e473bf6f81e8c828.webp",
       "previewAssetPath": "assets/theme-catalog/previews/x3-e473bf6f81e8c828.webp",
-      "sha256": "85b8a63eb3b8fc5d035ac0ef7752d71b00b38d774856e9824612e469c31c8bac",
-      "bytes": 3093830,
+      "sha256": "7f824ee92a5ae1f74293a7193b0b3dea190ada0b50c2302b4fb57a876b529cc7",
+      "bytes": 3093833,
       "originalSha256": "e473bf6f81e8c8287907bfef4279b81911bf150acad29a4f54f76833c311446a",
       "originalFiles": [
         "猫羽雫.zip"
@@ -468,7 +468,8 @@
       "conversionRequired": false,
       "limitations": [],
       "bitmapCompatibilityRevision": 1,
-      "packageLocalImagePathRevision": 1
+      "packageLocalImagePathRevision": 1,
+      "moduleMenuTypeRevision": 1
     },
     {
       "id": "x3-c5007b771809b8cd",
@@ -772,8 +773,8 @@
       "assetPath": "assets/theme-catalog/packages/cute/大白-da6854fb.zip",
       "previewPath": "themes/x3/previews/x3-da6854fbeab0391a.webp",
       "previewAssetPath": "assets/theme-catalog/previews/x3-da6854fbeab0391a.webp",
-      "sha256": "a65f4ea10c9dfaca43ba04a5e281f0957c8ed24c3a2b7f2e3f559c250ef2e6b4",
-      "bytes": 1808883,
+      "sha256": "19b15998127eac8f6dee84a409ef1fbdd50b36087bef5445f1fcdf9f970c2737",
+      "bytes": 1808891,
       "originalSha256": "da6854fbeab0391a37e81491f1450ff98328f1001ef368e2a52ea521f59d8bdf",
       "originalFiles": [
         "大白21.zip"
@@ -782,7 +783,8 @@
       "previewBytes": 7540,
       "format": "x3-settings",
       "conversionRequired": false,
-      "limitations": []
+      "limitations": [],
+      "moduleMenuTypeRevision": 1
     },
     {
       "id": "x3-b8e7e9be548c2baa",
@@ -868,8 +870,8 @@
       "assetPath": "assets/theme-catalog/packages/cute/海盐熊-8099ccab.zip",
       "previewPath": "themes/x3/previews/x3-8099ccab967c9553.webp",
       "previewAssetPath": "assets/theme-catalog/previews/x3-8099ccab967c9553.webp",
-      "sha256": "27ae0b9cbfeb5baeb7513c9ef64d6b772bac6184f9fd05a0e0ed39a001da262b",
-      "bytes": 1190480,
+      "sha256": "6ac1322ec287a2e9ba838f309671b4f7bc1acae3ad8d4917ac1a940721f5085a",
+      "bytes": 1190351,
       "originalSha256": "8099ccab967c955377c5614736576dd82012ee13a683609cb4f1b0c2c9d0f8c8",
       "originalFiles": [
         "海盐熊-65268779130.zip"
@@ -878,7 +880,9 @@
       "previewBytes": 14526,
       "format": "x3-settings",
       "conversionRequired": false,
-      "limitations": []
+      "limitations": [],
+      "moduleMenuTypeRevision": 1,
+      "markerNormalizationRevision": 1
     },
     {
       "id": "x3-5adccc753a739f63",
@@ -892,8 +896,8 @@
       "assetPath": "assets/theme-catalog/packages/cute/海盐熊-优化背景及气泡-5adccc75.zip",
       "previewPath": "themes/x3/previews/x3-5adccc753a739f63.webp",
       "previewAssetPath": "assets/theme-catalog/previews/x3-5adccc753a739f63.webp",
-      "sha256": "0d027f87b4de74a4719ed6aed50cbcee65d247c4ea38b5e2659a376e83c7faec",
-      "bytes": 1204901,
+      "sha256": "2d107c4ac5169bd302a3cb29dbfd86b23002b561512911685613f670d0ce99fa",
+      "bytes": 1204772,
       "originalSha256": "5adccc753a739f638a8a990bc285c8f31a1de0c70b91a5a0065570cf07ec002c",
       "originalFiles": [
         "海盐熊-优化背景及气泡65268779134 (1).zip"
@@ -902,7 +906,9 @@
       "previewBytes": 14526,
       "format": "x3-settings",
       "conversionRequired": false,
-      "limitations": []
+      "limitations": [],
+      "moduleMenuTypeRevision": 1,
+      "markerNormalizationRevision": 1
     },
     {
       "id": "x3-6e0489af6e1b12aa",
@@ -916,8 +922,8 @@
       "assetPath": "assets/theme-catalog/packages/cute/海盐熊-完结-6e0489af.zip",
       "previewPath": "themes/x3/previews/x3-6e0489af6e1b12aa.webp",
       "previewAssetPath": "assets/theme-catalog/previews/x3-6e0489af6e1b12aa.webp",
-      "sha256": "9f58b84d97376d1091ef3ad5fb8f63abaac327409e651343c945933c624189c3",
-      "bytes": 1204715,
+      "sha256": "7da0d53898467443ffcd5a530e76b2d3d148da718cf99a8e2045499cf89982e2",
+      "bytes": 1204586,
       "originalSha256": "6e0489af6e1b12aaac4c64d54ad8799bb9503d1a5441d2e49dbcde5a685d7542",
       "originalFiles": [
         "海盐熊-完结65268779133.zip"
@@ -926,7 +932,9 @@
       "previewBytes": 14526,
       "format": "x3-settings",
       "conversionRequired": false,
-      "limitations": []
+      "limitations": [],
+      "moduleMenuTypeRevision": 1,
+      "markerNormalizationRevision": 1
     },
     {
       "id": "x3-a8a9939fd8c1ccc4",
@@ -940,8 +948,8 @@
       "assetPath": "assets/theme-catalog/packages/cute/海盐熊-完结-增加侧滑呼出-a8a9939f.zip",
       "previewPath": "themes/x3/previews/x3-a8a9939fd8c1ccc4.webp",
       "previewAssetPath": "assets/theme-catalog/previews/x3-a8a9939fd8c1ccc4.webp",
-      "sha256": "dca07b51360827f21d802b30350137e6f82659c7351a2a4453c00f66492075c3",
-      "bytes": 1204717,
+      "sha256": "deb146f9d832c51cd909115119e954c3ea16294c14e96e25c24760f2c1da48c0",
+      "bytes": 1204588,
       "originalSha256": "a8a9939fd8c1ccc49e60f76651a62b91d327c3670c9d361a4ab36621b2145b3c",
       "originalFiles": [
         "海盐熊-完结（增加侧滑呼出）65268779132.zip"
@@ -950,7 +958,9 @@
       "previewBytes": 14526,
       "format": "x3-settings",
       "conversionRequired": false,
-      "limitations": []
+      "limitations": [],
+      "moduleMenuTypeRevision": 1,
+      "markerNormalizationRevision": 1
     },
     {
       "id": "x3-3ffc2b2d707214e7",
@@ -964,8 +974,8 @@
       "assetPath": "assets/theme-catalog/packages/cute/海盐熊-改侧滑-有顶栏显示bug-3ffc2b2d.zip",
       "previewPath": "themes/x3/previews/x3-3ffc2b2d707214e7.webp",
       "previewAssetPath": "assets/theme-catalog/previews/x3-3ffc2b2d707214e7.webp",
-      "sha256": "c378a09e0a43b8a287640ba5dfe4f2639cb0fa3330007857f1bfb2a616e5191f",
-      "bytes": 1190483,
+      "sha256": "f19f0987672a2c44861c23ca57f3ffa7408116de486edb1ff41ca576948ef1ff",
+      "bytes": 1190355,
       "originalSha256": "3ffc2b2d707214e7940c8040a015908a9b454bc21c37b5166c715d5a6b775fbc",
       "originalFiles": [
         "海盐熊-改侧滑(有顶栏显示bug)65268779131.zip"
@@ -974,7 +984,9 @@
       "previewBytes": 14526,
       "format": "x3-settings",
       "conversionRequired": false,
-      "limitations": []
+      "limitations": [],
+      "moduleMenuTypeRevision": 1,
+      "markerNormalizationRevision": 1
     },
     {
       "id": "x3-f9183c98eae4eff2",
@@ -1087,8 +1099,8 @@
       "assetPath": "assets/theme-catalog/packages/games/光遇-75870171.zip",
       "previewPath": "themes/x3/previews/x3-758701713473ccad.webp",
       "previewAssetPath": "assets/theme-catalog/previews/x3-758701713473ccad.webp",
-      "sha256": "3a21cbf7ea84c66da9d30eda364f707fce593ca483385822df9392fe6d3dc9c5",
-      "bytes": 10434253,
+      "sha256": "27390d14ae08cea7bebf264a17217748eb6615450ee2353bcd97aee08c06ea84",
+      "bytes": 10434203,
       "originalSha256": "758701713473ccad5c36c8ad00d11d8cd7bc854c7e4b102bf1c6acc10dd8a157",
       "originalFiles": [
         "光遇.zip"
@@ -1097,7 +1109,8 @@
       "previewBytes": 11316,
       "format": "x3-settings",
       "conversionRequired": false,
-      "limitations": []
+      "limitations": [],
+      "markerNormalizationRevision": 1
     },
     {
       "id": "x3-d28292405a836b54",
@@ -1416,8 +1429,8 @@
       "assetPath": "assets/theme-catalog/packages/landscape/星河-777bc769.zip",
       "previewPath": "themes/x3/previews/x3-777bc769673a7b36.webp",
       "previewAssetPath": "assets/theme-catalog/previews/x3-777bc769673a7b36.webp",
-      "sha256": "a6cb371a2de721bd029e8d54b01e3b346ee2b15e3987088dc55ded3cf45171b0",
-      "bytes": 8565404,
+      "sha256": "efe81158e5644a19d0772f90a87084bbab10608507fd56adcf428ebdfc7a2de5",
+      "bytes": 8565412,
       "originalSha256": "777bc769673a7b36895876bd4842d3dbf0edac1d4f27ca11d8f12fb2d94f0188",
       "originalFiles": [
         "星河80.zip"
@@ -1426,7 +1439,8 @@
       "previewBytes": 23420,
       "format": "x3-settings",
       "conversionRequired": false,
-      "limitations": []
+      "limitations": [],
+      "moduleMenuTypeRevision": 1
     },
     {
       "id": "x3-fa7b74093b878d3a",
@@ -1910,8 +1924,8 @@
       "assetPath": "assets/theme-catalog/packages/minimal/婉芯-简约风-e431586e.zip",
       "previewPath": "themes/x3/previews/x3-e431586e95e421d3.webp",
       "previewAssetPath": "assets/theme-catalog/previews/x3-e431586e95e421d3.webp",
-      "sha256": "8942a9376f34bd6d52bdce76e077192a7601f9116d2e5e0286349c02d088b5df",
-      "bytes": 3017894,
+      "sha256": "bccd329bcff95c74122379dfceb049f8a72c605bceed5f81ff9848165e1ccf13",
+      "bytes": 3017899,
       "originalSha256": "e431586e95e421d3b83b266fa20afcd2ad13ff6e506dd52bfc5edbfca76f1375",
       "originalFiles": [
         "婉芯-简约风71.zip"
@@ -1920,7 +1934,8 @@
       "previewBytes": 9498,
       "format": "x3-settings",
       "conversionRequired": false,
-      "limitations": []
+      "limitations": [],
+      "moduleMenuTypeRevision": 1
     },
     {
       "id": "x3-cbcfed4b0cbc3fe7",
@@ -1966,8 +1981,8 @@
       "assetPath": "assets/theme-catalog/packages/minimal/定制-51634d45.zip",
       "previewPath": "themes/x3/previews/x3-51634d45fab8847f.webp",
       "previewAssetPath": "assets/theme-catalog/previews/x3-51634d45fab8847f.webp",
-      "sha256": "453592b2f6124fb836fbaf3906ea95dbbd3b4444bda7f1ac98da56e716e7a6e4",
-      "bytes": 5035492,
+      "sha256": "1dfc51186c48cf47942d31b6d4c9045c31f4faec4e00a627d9e9cb3773c1a5de",
+      "bytes": 5035497,
       "originalSha256": "51634d45fab8847ff3a38c02f390628e851dba5fd7802fa169953b279c7e4b16",
       "originalFiles": [
         "定制.zip"
@@ -1976,7 +1991,8 @@
       "previewBytes": 33492,
       "format": "x3-settings",
       "conversionRequired": false,
-      "limitations": []
+      "limitations": [],
+      "moduleMenuTypeRevision": 1
     },
     {
       "id": "x3-564d45752bad55e6",
@@ -1990,8 +2006,8 @@
       "assetPath": "assets/theme-catalog/packages/minimal/小清新二改-564d4575.zip",
       "previewPath": "themes/x3/previews/x3-564d45752bad55e6.webp",
       "previewAssetPath": "assets/theme-catalog/previews/x3-564d45752bad55e6.webp",
-      "sha256": "736f29f2f4b656501e72490e52b2cda5e6d7af07208072e41e98cc92a70dedc0",
-      "bytes": 8593546,
+      "sha256": "728ec95d6265c9ac047cab047dca29745e75f462cd7601121f62777615d7866f",
+      "bytes": 8593420,
       "originalSha256": "564d45752bad55e64867e0fd9e14dd07bb89625f68afab7f80238992d6e2592c",
       "originalFiles": [
         "-小清新二改.zip"
@@ -2000,7 +2016,8 @@
       "previewBytes": 9942,
       "format": "x3-settings",
       "conversionRequired": false,
-      "limitations": []
+      "limitations": [],
+      "markerNormalizationRevision": 1
     },
     {
       "id": "x3-396b3bca332f95b4",
@@ -2068,8 +2085,8 @@
       "assetPath": "assets/theme-catalog/packages/minimal/新二次元主题-52b2413b.zip",
       "previewPath": "themes/x3/previews/x3-52b2413b147499d3.webp",
       "previewAssetPath": "assets/theme-catalog/previews/x3-52b2413b147499d3.webp",
-      "sha256": "264aeac565dc9c3532438f6302b24f2d76c397107c012f9dea45f2c1760e2633",
-      "bytes": 3808260,
+      "sha256": "97b169bc194d9bf31570ebbd66161d7aa9cb8b0eee34e04599dd9a0309f90cc7",
+      "bytes": 3808268,
       "originalSha256": "52b2413b147499d399c68fe0fd3f3d396b2db4ed89805101b9d1fbdfbc079497",
       "originalFiles": [
         "新二次元主题79.zip"
@@ -2079,7 +2096,8 @@
       "format": "x3-settings",
       "conversionRequired": false,
       "limitations": [],
-      "bitmapCompatibilityRevision": 1
+      "bitmapCompatibilityRevision": 1,
+      "moduleMenuTypeRevision": 1
     },
     {
       "id": "x3-635241c4ca9738fb",
@@ -2093,8 +2111,8 @@
       "assetPath": "assets/theme-catalog/packages/minimal/无题-635241c4.zip",
       "previewPath": "themes/x3/previews/x3-635241c4ca9738fb.webp",
       "previewAssetPath": "assets/theme-catalog/previews/x3-635241c4ca9738fb.webp",
-      "sha256": "6c2fddb84390a2af8189778d61244be6dc85b1c15b8255f255a5270588f21f45",
-      "bytes": 1757668,
+      "sha256": "a27f9de33f43e2e724ce3c1b035e07cfaa207604a4b6217764a316af70b19d17",
+      "bytes": 1757673,
       "originalSha256": "635241c4ca9738fb1c0e52e3988f250f283fa9464946c91bb3ac30e524a3c448",
       "originalFiles": [
         "微X主题〈无题〉.zip"
@@ -2109,7 +2127,8 @@
           "setting": "$settings.SplashImage[0].p",
           "resource": "images/80a9f1ba69cb01cde81354d04e6ebcb8.jpg"
         }
-      ]
+      ],
+      "moduleMenuTypeRevision": 1
     },
     {
       "id": "x3-38c6b44a1c2aa87c",
@@ -2123,8 +2142,8 @@
       "assetPath": "assets/theme-catalog/packages/minimal/毛衣芙芙-38c6b44a.zip",
       "previewPath": "themes/x3/previews/x3-38c6b44a1c2aa87c.webp",
       "previewAssetPath": "assets/theme-catalog/previews/x3-38c6b44a1c2aa87c.webp",
-      "sha256": "4c91de0dd2c97243f62f78586db3b33eee81706252af4c768ca530a48ac900fa",
-      "bytes": 4203066,
+      "sha256": "172d0b168d577fa34240cdb1d65e569e196a9cb5827cd41d62df55c7b10fdf7b",
+      "bytes": 4202934,
       "originalSha256": "38c6b44a1c2aa87c735c28356e0dcca1d01a86f019e2c0c62046ddad6e408dc3",
       "originalFiles": [
         "毛衣芙芙57.zip"
@@ -2133,7 +2152,9 @@
       "previewBytes": 22094,
       "format": "x3-settings",
       "conversionRequired": false,
-      "limitations": []
+      "limitations": [],
+      "moduleMenuTypeRevision": 1,
+      "markerNormalizationRevision": 1
     },
     {
       "id": "x3-ba8e892378655edb",
@@ -2393,8 +2414,8 @@
       "assetPath": "assets/theme-catalog/packages/minimal/粉粉的微x主题-cb3bf0cf.zip",
       "previewPath": "themes/x3/previews/x3-cb3bf0cf5285f217.webp",
       "previewAssetPath": "assets/theme-catalog/previews/x3-cb3bf0cf5285f217.webp",
-      "sha256": "73c46c86e9813689537a857e4fbda45e02be3515dc2ba7d311fca0c8f416d308",
-      "bytes": 1132466,
+      "sha256": "6e0a844c8a1e9a04f2aebc2855866901886afadd6bf4f02d9c396873d2cf9b11",
+      "bytes": 1132348,
       "originalSha256": "cb3bf0cf5285f217fefe1adeb692ceb36ccadc53eae3ac8789280d34e0d55938",
       "originalFiles": [
         "粉粉的微x主题24.zip"
@@ -2403,7 +2424,9 @@
       "previewBytes": 41038,
       "format": "x3-settings",
       "conversionRequired": false,
-      "limitations": []
+      "limitations": [],
+      "moduleMenuTypeRevision": 1,
+      "markerNormalizationRevision": 1
     },
     {
       "id": "x3-cd5ef6bc1d6a1eaf",
@@ -2504,9 +2527,12 @@
     }
   ],
   "sourceArchives": 99,
-  "uniquePackages": 97,
+  "uniquePackages": 96,
   "conversionRevision": 2,
   "bitmapCompatibilityRevision": 1,
   "packageLocalImagePathRevision": 1,
-  "sharedSplashRecoveryRevision": 1
+  "sharedSplashRecoveryRevision": 1,
+  "moduleMenuTypeRevision": 1,
+  "sourceUniquePackagesBeforeEncryptionPolicy": 97,
+  "markerNormalizationRevision": 1
 }
