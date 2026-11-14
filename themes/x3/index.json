@@ -43,8 +43,8 @@
       "assetPath": "assets/theme-catalog/packages/characters/Miku-2db2d7a3.zip",
       "previewPath": "themes/x3/previews/x3-2db2d7a3497e28cd.webp",
       "previewAssetPath": "assets/theme-catalog/previews/x3-2db2d7a3497e28cd.webp",
-      "sha256": "2237b327bb40a9b78f45bf6966e5f7ff14075a799c73ccbfce07e2351a868f81",
-      "bytes": 8080051,
+      "sha256": "19b6aa2d0db376a1473f50ca1376eda630e50cbd93c7bd1128c5fa22174bf280",
+      "bytes": 8164227,
       "originalSha256": "2db2d7a3497e28cd5cd88b809fd1a89158b93b54e115d1c1224f1928b0f5bf0f",
       "originalFiles": [
         "Miku.zip"
@@ -54,12 +54,19 @@
       "format": "x3-settings",
       "conversionRequired": false,
       "limitations": [],
-      "missingRequiredImages": [
-        {
-          "setting": "$settings.SplashImage[0].p",
-          "resource": "images/0d4c7108a897b64344e4465c01cb01fa.png"
-        }
-      ]
+      "restoredSplashAsset": {
+        "filename": "0d4c7108a897b64344e4465c01cb01fa.png",
+        "sha256": "8a9ae7ab09e74f12390c56c35203b6cfe505057473f673964414e42482e37a70",
+        "bytes": 101494,
+        "sourceOriginalArchiveSha256": [
+          "aafb5571071efb9bf7ff515c360156579a6871f0ea9d83dd9297ce0ffb1b7dd1",
+          "ac5540f10593b1862c81f9ad0176e09fd3adfec862187dca47be2c8abb542fb3"
+        ]
+      },
+      "startupPreviewAssetPath": "assets/theme-catalog/previews/x3-2db2d7a3497e28cd-startup.webp",
+      "startupPreviewPath": "themes/x3/previews/x3-2db2d7a3497e28cd-startup.webp",
+      "startupPreviewSha256": "e9807f3c1041f40bc10dba821b3c73d05efc4b3024ddb30f908e2bc557978c03",
+      "startupPreviewBytes": 6028
     },
     {
       "id": "x3-d79ba0933bcaff1a",
@@ -388,8 +395,8 @@
       "assetPath": "assets/theme-catalog/packages/characters/洛天依-暗黑-c1c44a92.zip",
       "previewPath": "themes/x3/previews/x3-c1c44a920dbfba94.webp",
       "previewAssetPath": "assets/theme-catalog/previews/x3-c1c44a920dbfba94.webp",
-      "sha256": "459bcaf165f76b7f82ddcb201c6decdfd6b96f794b4892699f493a748225f0ce",
-      "bytes": 3679308,
+      "sha256": "28187604ea172efc2a35f60fd51b35a57496467ae347d77a777cee5d2d9eef08",
+      "bytes": 3763484,
       "originalSha256": "c1c44a920dbfba940073fa8c9244180626b1eaae4b95df339dc4728cd2111670",
       "originalFiles": [
         "洛天依（暗黑）55.zip"
@@ -399,12 +406,19 @@
       "format": "x3-settings",
       "conversionRequired": false,
       "limitations": [],
-      "missingRequiredImages": [
-        {
-          "setting": "$settings.SplashImage[0].p",
-          "resource": "images/0d4c7108a897b64344e4465c01cb01fa.png"
-        }
-      ]
+      "restoredSplashAsset": {
+        "filename": "0d4c7108a897b64344e4465c01cb01fa.png",
+        "sha256": "8a9ae7ab09e74f12390c56c35203b6cfe505057473f673964414e42482e37a70",
+        "bytes": 101494,
+        "sourceOriginalArchiveSha256": [
+          "aafb5571071efb9bf7ff515c360156579a6871f0ea9d83dd9297ce0ffb1b7dd1",
+          "ac5540f10593b1862c81f9ad0176e09fd3adfec862187dca47be2c8abb542fb3"
+        ]
+      },
+      "startupPreviewAssetPath": "assets/theme-catalog/previews/x3-c1c44a920dbfba94-startup.webp",
+      "startupPreviewPath": "themes/x3/previews/x3-c1c44a920dbfba94-startup.webp",
+      "startupPreviewSha256": "e9807f3c1041f40bc10dba821b3c73d05efc4b3024ddb30f908e2bc557978c03",
+      "startupPreviewBytes": 6028
     },
     {
       "id": "x3-46ec1b2e151a2f7c",
@@ -1553,8 +1567,8 @@
       "assetPath": "assets/theme-catalog/packages/landscape/最美国风-a9e26728.zip",
       "previewPath": "themes/x3/previews/x3-a9e2672896df931b.webp",
       "previewAssetPath": "assets/theme-catalog/previews/x3-a9e2672896df931b.webp",
-      "sha256": "690be47bce8e70f61eeaecc5356e2ca9ef3fab8cd30f8c27c64bd191871a6323",
-      "bytes": 8415109,
+      "sha256": "4f7dd673cb2901427ea62a4a036d475574e1f2d76383fe0a55c44c47ef9b56e6",
+      "bytes": 8499285,
       "originalSha256": "a9e2672896df931bc78288e41bfe69582ec869ff8c554ead0e16001ac8b9a3a0",
       "originalFiles": [
         "最美国风.zip"
@@ -1564,12 +1578,19 @@
       "format": "x3-settings",
       "conversionRequired": false,
       "limitations": [],
-      "missingRequiredImages": [
-        {
-          "setting": "$settings.SplashImage[0].p",
-          "resource": "images/0d4c7108a897b64344e4465c01cb01fa.png"
-        }
-      ]
+      "restoredSplashAsset": {
+        "filename": "0d4c7108a897b64344e4465c01cb01fa.png",
+        "sha256": "8a9ae7ab09e74f12390c56c35203b6cfe505057473f673964414e42482e37a70",
+        "bytes": 101494,
+        "sourceOriginalArchiveSha256": [
+          "aafb5571071efb9bf7ff515c360156579a6871f0ea9d83dd9297ce0ffb1b7dd1",
+          "ac5540f10593b1862c81f9ad0176e09fd3adfec862187dca47be2c8abb542fb3"
+        ]
+      },
+      "startupPreviewAssetPath": "assets/theme-catalog/previews/x3-a9e2672896df931b-startup.webp",
+      "startupPreviewPath": "themes/x3/previews/x3-a9e2672896df931b-startup.webp",
+      "startupPreviewSha256": "e9807f3c1041f40bc10dba821b3c73d05efc4b3024ddb30f908e2bc557978c03",
+      "startupPreviewBytes": 6028
     },
     {
       "id": "x3-575ca17f5f6b364c",
@@ -1727,8 +1748,8 @@
       "assetPath": "assets/theme-catalog/packages/landscape/青花没有瓷-4fb24230.zip",
       "previewPath": "themes/x3/previews/x3-4fb242301a18bd56.webp",
       "previewAssetPath": "assets/theme-catalog/previews/x3-4fb242301a18bd56.webp",
-      "sha256": "7963b95f139c39ccf67e161ef19411867e27c7e9541f0b4678af60d01bbb818d",
-      "bytes": 11632471,
+      "sha256": "43cdd984250861473d7e177d3fadb096754320167966eee7a30becaeaeb3068f",
+      "bytes": 11716647,
       "originalSha256": "4fb242301a18bd56f2e1464521c8805a00011c69c4329131cfead613f9e77655",
       "originalFiles": [
         "青花没有瓷.zip"
@@ -1738,12 +1759,19 @@
       "format": "x3-settings",
       "conversionRequired": false,
       "limitations": [],
-      "missingRequiredImages": [
-        {
-          "setting": "$settings.SplashImage[0].p",
-          "resource": "images/0d4c7108a897b64344e4465c01cb01fa.png"
-        }
-      ]
+      "restoredSplashAsset": {
+        "filename": "0d4c7108a897b64344e4465c01cb01fa.png",
+        "sha256": "8a9ae7ab09e74f12390c56c35203b6cfe505057473f673964414e42482e37a70",
+        "bytes": 101494,
+        "sourceOriginalArchiveSha256": [
+          "aafb5571071efb9bf7ff515c360156579a6871f0ea9d83dd9297ce0ffb1b7dd1",
+          "ac5540f10593b1862c81f9ad0176e09fd3adfec862187dca47be2c8abb542fb3"
+        ]
+      },
+      "startupPreviewAssetPath": "assets/theme-catalog/previews/x3-4fb242301a18bd56-startup.webp",
+      "startupPreviewPath": "themes/x3/previews/x3-4fb242301a18bd56-startup.webp",
+      "startupPreviewSha256": "e9807f3c1041f40bc10dba821b3c73d05efc4b3024ddb30f908e2bc557978c03",
+      "startupPreviewBytes": 6028
     },
     {
       "id": "x3-7a76638b58f65917",
@@ -2507,5 +2535,6 @@
   "uniquePackages": 97,
   "conversionRevision": 2,
   "bitmapCompatibilityRevision": 1,
-  "packageLocalImagePathRevision": 1
+  "packageLocalImagePathRevision": 1,
+  "sharedSplashRecoveryRevision": 1
 }

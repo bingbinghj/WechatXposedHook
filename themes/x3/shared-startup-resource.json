@@ -1,0 +1,41 @@
+{
+  "revision": 1,
+  "resource": {
+    "filename": "0d4c7108a897b64344e4465c01cb01fa.png",
+    "bytes": 101494,
+    "sha256": "8a9ae7ab09e74f12390c56c35203b6cfe505057473f673964414e42482e37a70"
+  },
+  "originalDonorArchiveSha256": [
+    "ac5540f10593b1862c81f9ad0176e09fd3adfec862187dca47be2c8abb542fb3",
+    "aafb5571071efb9bf7ff515c360156579a6871f0ea9d83dd9297ce0ffb1b7dd1"
+  ],
+  "originalReferenceObjectsIdentical": true,
+  "packages": [
+    {
+      "id": "x3-2db2d7a3497e28cd",
+      "settingsSha256Unchanged": "2f5a6c8a206496c2e5f3704c3f8969b5eafcabf8a903e6de944454d27df90a98",
+      "startupPreviewSha256": "e9807f3c1041f40bc10dba821b3c73d05efc4b3024ddb30f908e2bc557978c03",
+      "sourceByPersistentResourceReference": true
+    },
+    {
+      "id": "x3-c1c44a920dbfba94",
+      "settingsSha256Unchanged": "714e37fdb8db7467b1a2ce5e5e90ab8445b96110a551c0762f71c8e046a58b32",
+      "startupPreviewSha256": "e9807f3c1041f40bc10dba821b3c73d05efc4b3024ddb30f908e2bc557978c03",
+      "sourceByPersistentResourceReference": true
+    },
+    {
+      "id": "x3-a9e2672896df931b",
+      "settingsSha256Unchanged": "9504fde854a5c8ec232403aa0d0110e029aa4472f65e97c2e74c8957e1070882",
+      "startupPreviewSha256": "e9807f3c1041f40bc10dba821b3c73d05efc4b3024ddb30f908e2bc557978c03",
+      "sourceByPersistentResourceReference": true
+    },
+    {
+      "id": "x3-4fb242301a18bd56",
+      "settingsSha256Unchanged": "0cb3ca924dde7a5f599025d8e5f2c394d78412b3944c0909d48260329da65ae3",
+      "startupPreviewSha256": "e9807f3c1041f40bc10dba821b3c73d05efc4b3024ddb30f908e2bc557978c03",
+      "sourceByPersistentResourceReference": true
+    }
+  ],
+  "remainingEnabledSplashPackages": 14,
+  "targetOriginalImageHashesUnavailable": true
+}
