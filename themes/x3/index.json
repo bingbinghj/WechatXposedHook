@@ -2524,15 +2524,40 @@
       "format": "x3-settings",
       "conversionRequired": false,
       "limitations": []
+    },
+    {
+      "id": "x3-8ef0c541f4d36659",
+      "name": "莫奈取色",
+      "category": "minimal",
+      "categoryName": "简约与个性",
+      "aliases": [
+        "莫奈取色"
+      ],
+      "palette": "system-monet-v1",
+      "description": "应用时读取系统配色与当前明暗模式。更换壁纸或明暗模式后，重新应用即可更新；Android 12 以下使用内置配色。",
+      "packagePath": "themes/x3/packages/minimal/monet-8ef0c541.zip",
+      "assetPath": "assets/theme-catalog/packages/minimal/monet-8ef0c541.zip",
+      "previewPath": "themes/x3/previews/x3-8ef0c541f4d36659.webp",
+      "previewAssetPath": "assets/theme-catalog/previews/x3-8ef0c541f4d36659.webp",
+      "sha256": "d8479773cceb059c6ac94ee69eaaf717057bb9cd0591b0be314d2ea623e2acb7",
+      "bytes": 2059,
+      "previewSha256": "d3891597a5e2f421dff22010155676982fd1fafbdda87da6c191dfc0545019c1",
+      "previewBytes": 20726,
+      "format": "x3-settings",
+      "conversionRequired": false,
+      "limitations": [
+        "适配页面、底栏、列表、文字和普通聊天气泡；原覆盖包的旧版专属资源不直接映射。"
+      ]
     }
   ],
   "sourceArchives": 99,
-  "uniquePackages": 96,
+  "uniquePackages": 97,
   "conversionRevision": 2,
   "bitmapCompatibilityRevision": 1,
   "packageLocalImagePathRevision": 1,
   "sharedSplashRecoveryRevision": 1,
   "moduleMenuTypeRevision": 1,
   "sourceUniquePackagesBeforeEncryptionPolicy": 97,
-  "markerNormalizationRevision": 1
+  "markerNormalizationRevision": 1,
+  "systemPaletteRevision": 1
 }
