@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "targetPackage": "com.tencent.mm",
+  "targetVersionName": "8.0.80",
+  "targetVersionCode": 3220,
+  "policy": "missing-only-original-importer",
+  "sourceDatabaseSha256": "66bd3718ed5c3d51e4d2489f4879f1fd491cebf9d5ee9bb5ae15de3a32a42d0b",
+  "payloadSha256": "682449c2f401ae6a3d979d90bea8633e530d9e9c19b312a38b26fb8e678c5c04",
+  "allowlistSha256": "42774e146a8ad5a1f3d916a95526648228dc04aef2a699931a5797631e561244",
+  "originalImporterVersion": 2,
+  "ordinaryScalarEntries": 107,
+  "emptyCustomToolbarLayoutEntries": 1,
+  "automaticLicenseGrant": false,
+  "accountDataIncluded": false,
+  "existingCurrentValuesPreserved": true,
+  "originalAccountCalculationPreserved": true,
+  "originalCiphertextRetained": true
+}

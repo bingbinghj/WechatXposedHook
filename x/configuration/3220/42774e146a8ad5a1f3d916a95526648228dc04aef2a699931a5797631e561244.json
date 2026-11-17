@@ -1,0 +1,449 @@
+{
+  "schema": 1,
+  "policy": "ordinary-scalar-template; existing current-account rows win",
+  "sourceDatabaseSha256": "66bd3718ed5c3d51e4d2489f4879f1fd491cebf9d5ee9bb5ae15de3a32a42d0b",
+  "selectedBackupScopeRank": 1,
+  "sourceScopeRows": 283,
+  "sourceAccountIdentifierIncluded": false,
+  "entries": [
+    {
+      "tag": "rpc_mode",
+      "type": "INT"
+    },
+    {
+      "tag": "scan_zombie_method",
+      "type": "INT"
+    },
+    {
+      "tag": "chatrobot",
+      "type": "INT"
+    },
+    {
+      "tag": "chatrobot_type",
+      "type": "STRING"
+    },
+    {
+      "tag": "themes_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "random_chatting_bg",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "current_theme",
+      "type": "STRING"
+    },
+    {
+      "tag": "rnd_bg_general",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "send_raw_image",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "chatroom_container",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "auto_transcribe_mode_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "auto_download_chat_media_save_external",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "send_search_image",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "voice_wrong_length_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "play_voice_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "disable_nudging",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "block_nudging_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "enable_bombprevention",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "remark_contact_shortcut",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "mute_shortcut",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "show_moment_deleted_tag",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "show_comment_deleted_tag",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "show_content",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "repeat_msg_send",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "MultiWebView",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "voice_duration_change_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "voice_duration",
+      "type": "INT"
+    },
+    {
+      "tag": "prevent_update_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "BizConversationUI_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "chatroom_container_all_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "chatroom_container_public_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "chatroom_container_work_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "chatroom_container_round_avatar",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "moment_original_image",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "enable_block_snsad",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "enable_moment_gamescores_filter",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "enable_moment_filter",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "send_search_image_longclick",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "web_img_search_src",
+      "type": "INT"
+    },
+    {
+      "tag": "click_red_packet_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "grab_red_packet_master_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "grab_red_packet_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "autoreply_r_delay_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "room_manangement_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "unify_modlist",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "enable_moment_link_filter",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "enable_moment_link_title_filter",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "moment_wifi_autoplay",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "moment_data_autoplay",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "exit_room_notice_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "nickname_change_notif_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "tts_send_mode_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "tts_shortcut_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "auto_tts_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "force_tablet_mode_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "selective_copy_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "webwx_auto_confirm",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "fast_switch_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "disable_wechat_ads_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "chatroom_custom_at_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "autoreply_auto_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "autoreply_master_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "autoreply_showtoast",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "song_robot_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "autoreply_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "reply_sign_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "_ANY__use_turingrobot",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "nonfriend_reply_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "autoresponse_TYPE_IMAGE_",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "openai_connection_timeout",
+      "type": "INT"
+    },
+    {
+      "tag": "openai_read_timeout",
+      "type": "INT"
+    },
+    {
+      "tag": "_ANY__autoresponse_keywords_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "chat_always_show_time",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "tts_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "auto_label_zombies",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "zombie_notif_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "zombie_scan_send_delay",
+      "type": "INT"
+    },
+    {
+      "tag": "zombie_auto_delete",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "detect_zombie_type",
+      "type": "STRING"
+    },
+    {
+      "tag": "tail_mode_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "tailmode_random_show",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "export_emoji_as_gif",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "search_chat_history_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "show_time_detailed_pattern",
+      "type": "STRING"
+    },
+    {
+      "tag": "show_time_detailed",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "moments_shortcut",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "show_time_centered",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "openai_model",
+      "type": "STRING"
+    },
+    {
+      "tag": "auto_translate_mode_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "autoupdate_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "persistent_special_mode_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "auto_tts_volume_control",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "auto_tts_announce_speaker",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "show_chatroom_mod_label",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "show_realname_label_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "mod_cmd_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "remove_max_limit",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "sight_forward_large_video_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "voice_manager",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "scan_gallery_to_camera",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "remove_voip_videoplayback_limitation",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "url_open_browser_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "export_chat_msg",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "export_chat_transcodevoice",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "copy_text",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "chatroom_container_tag_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "chatroom_container_mute_enable",
+      "type": "BOOLEAN"
+    },
+    {
+      "tag": "actionbar_items",
+      "type": "JSON_ARRAY"
+    }
+  ],
+  "originalImportGuardPreserved": true,
+  "licenceValuesIncluded": false,
+  "accountContactCredentialsOrFileDataIncluded": false,
+  "actualImportExecuted": false,
+  "deviceAccessed": false,
+  "productionChanged": false,
+  "originalEmptyToolbarLayoutVerified": true
+}
